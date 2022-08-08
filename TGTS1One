@@ -1,0 +1,1134 @@
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:27.80,0:00:29.98,字幕,,0,0,0,,今日本报头条\N{\fs40}According to today's newspaper headlines
+Dialogue: 0,0:00:29.98,0:00:32.43,字幕,,0,0,0,,汽车节目主持人\N{\fs40}it seems that it's the end of the road
+Dialogue: 0,0:00:32.43,0:00:36.38,字幕,,0,0,0,,杰里米 克拉克森的职业生涯要告一段落...\N{\fs40}for motoring presenter Jeremy Clarkson...
+Dialogue: 0,0:00:36.38,0:00:38.47,字幕,,0,0,0,,...很遗憾\N{\fs40}...and said that it's with deep regret
+Dialogue: 0,0:00:38.47,0:00:41.81,字幕,,0,0,0,,高层决定 对他不予以复职\N{\fs40}the decision had been taken not to renew him.
+Dialogue: 0,0:01:23.60,0:01:25.88,字幕,,0,0,0,,预计今日天气晴朗\N{\fs40}forecast plenty of sunshine through today
+Dialogue: 0,0:01:25.88,0:01:27.54,字幕,,0,0,0,,正常季节温度\N{\fs40}with seasonal temperatures.
+Dialogue: 0,0:01:27.54,0:01:30.89,字幕,,0,0,0,,午间气温可能高达28摄氏度...\N{\fs40}We should reach a high of about 82 degrees by this afternoon...
+Dialogue: 0,0:01:32.82,0:01:39.76,顶端,,0,0,0,,*我能清楚看到大雨已过*
+Dialogue: 0,0:01:39.76,0:01:46.90,顶端,,0,0,0,,*我能清楚看到未来障碍*
+Dialogue: 0,0:01:46.90,0:01:52.22,顶端,,0,0,0,,*蒙蔽双眼的阴霾已散尽*
+Dialogue: 0,0:01:52.22,0:01:55.43,顶端,,0,0,0,,*光明马上就要到来*
+Dialogue: 0,0:01:55.43,0:02:00.76,顶端,,0,0,0,,*阳光灿烂的日子*
+Dialogue: 0,0:02:00.76,0:02:07.79,顶端,,0,0,0,,*伤痛过后 我深信我定能成功*
+Dialogue: 0,0:02:07.79,0:02:14.66,顶端,,0,0,0,,*不好的情绪也已消失*
+Dialogue: 0,0:02:14.66,0:02:19.79,顶端,,0,0,0,,*祈祷的彩虹就在眼前*
+Dialogue: 0,0:02:19.79,0:02:22.99,顶端,,0,0,0,,*光明和阳光*
+Dialogue: 0,0:02:22.99,0:02:28.15,顶端,,0,0,0,,*将洒满这天*
+Dialogue: 0,0:02:28.15,0:02:34.63,顶端,,0,0,0,,*伤痛过后 我们奔向成功*
+Dialogue: 0,0:02:34.63,0:02:41.14,顶端,,0,0,0,,*不好的情绪都已消失*
+Dialogue: 0,0:02:41.14,0:02:46.16,顶端,,0,0,0,,*我能清楚看到大雨已过*
+Dialogue: 0,0:02:46.16,0:02:48.83,顶端,,0,0,0,,*这将是阳光灿烂的一天*
+Dialogue: 0,0:02:48.83,0:02:52.52,顶端,,0,0,0,,*将是阳光灿烂的一天*
+Dialogue: 0,0:02:52.52,0:02:55.43,顶端,,0,0,0,,*光明和灿烂*
+Dialogue: 0,0:02:55.43,0:02:57.74,顶端,,0,0,0,,*将洒满这天*
+Dialogue: 0,0:02:57.74,0:03:01.02,顶端,,0,0,0,,*带走这些阴霾吧*
+Dialogue: 0,0:03:45.39,0:03:48.72,顶端,,0,0,0,,*阳光灿烂的一天*
+Dialogue: 0,0:04:51.43,0:04:53.02,字幕,,0,0,0,,大家好\N{\fs40}Hello, everybody!
+Dialogue: 0,0:04:55.92,0:04:58.58,字幕,,0,0,0,,掌声送给温室花朵乐队\N{\fs40}Hello. That was the Hothouse Flowers.
+Dialogue: 0,0:04:58.58,0:05:00.97,字幕,,0,0,0,,现在我们看到这位\N{\fs40}And now, look what we have here.
+Dialogue: 0,0:05:04.00,0:05:06.32,字幕,,0,0,0,,他生于-\N{\fs40}He was born-
+Dialogue: 0,0:05:06.32,0:05:10.88,字幕,,0,0,0,,他生于1836年...\N{\fs40}He was born in 1836...
+Dialogue: 0,0:05:10.88,0:05:13.62,字幕,,0,0,0,,他曾让 汽车杂志 给炒鱿鱼了\N{\fs40}He was fired by Car magazine
+Dialogue: 0,0:05:13.62,0:05:16.42,字幕,,0,0,0,,让 机动车 杂志炒了\N{\fs40}fired by Autocar magazine
+Dialogue: 0,0:05:16.42,0:05:18.60,字幕,,0,0,0,,让 苏格兰周日报 炒了\N{\fs40}fired by Scotland On Sunday
+Dialogue: 0,0:05:18.60,0:05:19.80,字幕,,0,0,0,,而且\N{\fs40}and somehow
+Dialogue: 0,0:05:19.80,0:05:24.56,字幕,,0,0,0,,他还能让沃尔沃经销商给炒了\N{\fs40}he managed to get fired by a Volvo dealership.
+Dialogue: 0,0:05:24.56,0:05:25.91,字幕,,0,0,0,,谢谢\N{\fs40}Thank you.
+Dialogue: 0,0:05:25.91,0:05:28.14,字幕,,0,0,0,,可能就是因为开车太慢\N{\fs40}Probably for driving too slowly.
+Dialogue: 0,0:05:28.14,0:05:31.31,字幕,,0,0,0,,各位 詹姆士 梅\N{\fs40}Ladies and gentlemen, James May!
+Dialogue: 0,0:05:37.99,0:05:40.87,字幕,,0,0,0,,谢谢大家 你们太热情了\N{\fs40}Thank you, thank you. You're very kind.
+Dialogue: 0,0:05:40.87,0:05:43.48,字幕,,0,0,0,,好的 接下来这位\N{\fs40}And, ladies and gentlemen
+Dialogue: 0,0:05:43.48,0:05:47.04,字幕,,0,0,0,,后排的观众可能看不见他\N{\fs40}you probably can't see him from the back
+Dialogue: 0,0:05:47.04,0:05:52.08,字幕,,0,0,0,,但是我保证 他在台上\N{\fs40}but I assure you he is here.
+Dialogue: 0,0:05:52.08,0:05:54.84,字幕,,0,0,0,,他曾被约克电台给炒了\N{\fs40}He was fired by Radio York
+Dialogue: 0,0:05:54.84,0:05:57.31,字幕,,0,0,0,,被利兹电台炒了\N{\fs40}fired by Radio Leeds
+Dialogue: 0,0:05:57.31,0:05:59.47,字幕,,0,0,0,,被兰开夏电台炒了\N{\fs40}and fired by Radio Lancashire
+Dialogue: 0,0:05:59.47,0:06:01.14,字幕,,0,0,0,,这位就是 理查德 哈蒙德!\N{\fs40}it's Richard Hammond!
+Dialogue: 0,0:06:01.14,0:06:05.52,字幕,,0,0,0,,大家好 谢谢你们的热情\N{\fs40}Hello! Hello! Thank you!
+Dialogue: 0,0:06:05.52,0:06:07.55,字幕,,0,0,0,,谢谢\N{\fs40}Thank you.
+Dialogue: 0,0:06:07.55,0:06:13.36,字幕,,0,0,0,,女士们先生们\N{\fs40}And, ladies and gentlemen!
+Dialogue: 0,0:06:13.36,0:06:17.02,字幕,,0,0,0,,这位\N{\fs40}Over here!
+Dialogue: 0,0:06:17.02,0:06:19.77,字幕,,0,0,0,,他 他基本上\N{\fs40}He's- He's basically
+Dialogue: 0,0:06:19.77,0:06:23.72,字幕,,0,0,0,,是一只剃了毛的猿 穿着人类的衬衫\N{\fs40}a shaved ape in a shirt.
+Dialogue: 0,0:06:23.72,0:06:27.39,字幕,,0,0,0,,严格意义上 他也是我们中唯一一个\N{\fs40}And he, technically, is the only one of us
+Dialogue: 0,0:06:27.39,0:06:29.94,字幕,,0,0,0,,从未被任何公司炒过鱿鱼的人\N{\fs40}never to be fired by anyone.
+Dialogue: 0,0:06:29.94,0:06:33.67,字幕,,0,0,0,,掌声欢迎杰里米 克拉克森\N{\fs40}It's Jeremy Clarkson!
+Dialogue: 0,0:06:33.67,0:06:38.15,字幕,,0,0,0,,谢谢大家\N{\fs40}Thank you so much.
+Dialogue: 0,0:06:38.15,0:06:40.31,字幕,,0,0,0,,好消息是\N{\fs40}And the good thing is
+Dialogue: 0,0:06:40.31,0:06:43.63,字幕,,0,0,0,,我现在不太可能被炒鱿鱼了\N{\fs40}it's very unlikely I'm going to be fired now
+Dialogue: 0,0:06:43.63,0:06:46.71,字幕,,0,0,0,,因为我们这是网络节目\N{\fs40}because we're on the Internet
+Dialogue: 0,0:06:46.71,0:06:48.50,字幕,,0,0,0,,这意味着 我能在节目上和一匹马快活快活了\N{\fs40}which means I could pleasure a horse
+Dialogue: 0,0:06:48.50,0:06:50.98,字幕,,0,0,0,,不行不行不行\N{\fs40}No! No No
+Dialogue: 0,0:06:50.98,0:06:52.20,字幕,,0,0,0,,-狗呢？ -不\N{\fs40}-Dog? -No.
+Dialogue: 0,0:06:52.20,0:06:54.27,字幕,,0,0,0,,严禁各种快活\N{\fs40}No pleasuring of any sort.
+Dialogue: 0,0:06:54.27,0:06:56.80,字幕,,0,0,0,,-这是全家一起看的节目  -好吧\N{\fs40}- There are families watching. - Yes!
+Dialogue: 0,0:06:56.80,0:07:00.27,字幕,,0,0,0,,说回正题 我们都是汽车记者\N{\fs40}Anyway, we are all car journalists.
+Dialogue: 0,0:07:00.27,0:07:03.79,字幕,,0,0,0,,在过去20年间...\N{\fs40}And we have spent the last 20 years...
+Dialogue: 0,0:07:03.79,0:07:06.34,字幕,,0,0,0,,-我们一直在被炒鱿鱼  -可不是吗\N{\fs40}- Being fired. - Yes.
+Dialogue: 0,0:07:06.34,0:07:08.88,字幕,,0,0,0,,但是我们已经将毕生所学\N{\fs40}But we have poured everything we know
+Dialogue: 0,0:07:08.88,0:07:14.98,字幕,,0,0,0,,和所关心的一切投入这个节目\N{\fs40}everything we care about, into this show
+Dialogue: 0,0:07:14.98,0:07:19.60,字幕,,0,0,0,,倾尽所有 接下来的短片\N{\fs40}Everything. And coming up now is a small montage
+Dialogue: 0,0:07:19.60,0:07:22.93,字幕,,0,0,0,,包含了未来12周你们要期待的所有精彩\N{\fs40}of what you can expect over the next 12 weeks.
+Dialogue: 0,0:07:32.56,0:07:34.50,字幕,,0,0,0,,准备好了吗 两位\N{\fs40}Are we ready, gentlemen?
+Dialogue: 0,0:07:34.50,0:07:36.39,字幕,,0,0,0,,讲真 我也不知道\N{\fs40}Honestly, I don't know.
+Dialogue: 0,0:07:43.48,0:07:45.64,字幕,,0,0,0,,夭寿\N{\fs40}Argh!
+Dialogue: 0,0:07:45.64,0:07:48.68,字幕,,0,0,0,,这是坡太抖还是他的命根子出事了\N{\fs40}Is that the size of the drop or what's happened to his penis?
+Dialogue: 0,0:07:51.28,0:07:53.56,字幕,,0,0,0,,你现在看到的东西叫壮观\N{\fs40}You're looking at magnificence.
+Dialogue: 0,0:07:53.56,0:07:55.60,字幕,,0,0,0,,救命 大事不好\N{\fs40}Help! This is bad.
+Dialogue: 0,0:07:59.19,0:08:00.89,字幕,,0,0,0,,詹姆士说我们得停下来加油\N{\fs40}James says we've got to stop for fuel.
+Dialogue: 0,0:08:07.64,0:08:09.35,字幕,,0,0,0,,我恨你!\N{\fs40}I hate you!
+Dialogue: 0,0:08:09.35,0:08:10.85,字幕,,0,0,0,,他不喜欢我们呢\N{\fs40}He doesn't like us.
+Dialogue: 0,0:08:15.76,0:08:16.93,字幕,,0,0,0,,我的天\N{\fs40}Bloody Nora!
+Dialogue: 0,0:08:24.15,0:08:26.84,字幕,,0,0,0,,好像有点轻微漏水\N{\fs40}May be leaking slightly.
+Dialogue: 0,0:08:26.84,0:08:28.18,字幕,,0,0,0,,傻犊子\N{\fs40}What a moron.
+Dialogue: 0,0:08:30.52,0:08:33.23,字幕,,0,0,0,,你玩坏了我的豪华轿车\N{\fs40}You sunk my limousine!
+Dialogue: 0,0:08:33.23,0:08:35.02,字幕,,0,0,0,,我鼻子里的卫生棉掉了一个\N{\fs40}I've lost one of my nose tampons.
+Dialogue: 0,0:08:37.06,0:08:40.52,字幕,,0,0,0,,这不是一件很文明的事\N{\fs40}This is not a particularly cultural thing to do.
+Dialogue: 0,0:08:42.20,0:08:45.46,字幕,,0,0,0,,我不喜欢晚上烧胎的味道\N{\fs40}I don't like the smell of tire smoke in the evening.
+Dialogue: 0,0:08:45.46,0:08:47.42,字幕,,0,0,0,,赶紧回来\N{\fs40}Oi! Get back in!
+Dialogue: 0,0:08:47.42,0:08:49.27,字幕,,0,0,0,,詹姆士要掉下去了...\N{\fs40}James is falling...
+Dialogue: 0,0:08:57.56,0:08:59.43,字幕,,0,0,0,,穿亚麻西装漂移\N{\fs40}Sideways in linen.
+Dialogue: 0,0:09:11.83,0:09:13.72,字幕,,0,0,0,,这事很伤自尊 对吧 \N{\fs40}There's no dignity in that, is there?
+Dialogue: 0,0:09:13.72,0:09:15.43,字幕,,0,0,0,,对\N{\fs40}No.
+Dialogue: 0,0:09:18.99,0:09:21.22,字幕,,0,0,0,,谢谢 非常感谢\N{\fs40}Thank you. Thank you so much.
+Dialogue: 0,0:09:21.26,0:09:23.06,字幕,,0,0,0,,听我说 谢谢\N{\fs40}Now- Thank you.
+Dialogue: 0,0:09:23.06,0:09:27.08,字幕,,0,0,0,,我们将在这里给大家呈现以上所有内容\N{\fs40}All of that is gonna be hosted from this.
+Dialogue: 0,0:09:27.11,0:09:31.06,字幕,,0,0,0,,这个帐篷是我们新的移动演播室\N{\fs40}This is our new travelling studio tent.
+Dialogue: 0,0:09:31.10,0:09:34.50,字幕,,0,0,0,,非常感谢 我们将在这里面环游世界\N{\fs40}Thank you so much. We're gonna be roaming the world in it.
+Dialogue: 0,0:09:34.54,0:09:35.97,字幕,,0,0,0,,就像吉普赛人一样\N{\fs40}We're gonna be like gypsies.
+Dialogue: 0,0:09:35.97,0:09:38.71,字幕,,0,0,0,,不同的是我们开的车都会上保险\N{\fs40}Only the cars we drive are gonna be insured.
+Dialogue: 0,0:09:38.74,0:09:41.44,字幕,,0,0,0,,不要再说这种害我们被炒掉的话了\N{\fs40}Stop saying things that are gonna get us fired.
+Dialogue: 0,0:09:41.48,0:09:43.48,字幕,,0,0,0,,我只想说这太棒了\N{\fs40}But I'm just saying, it's brilliant.
+Dialogue: 0,0:09:43.51,0:09:45.68,字幕,,0,0,0,,真的\N{\fs40}It is.
+Dialogue: 0,0:09:47.35,0:09:50.45,字幕,,0,0,0,,喂 谁把我们的无人机打下来了\N{\fs40}Oi! Who shot our drone?
+Dialogue: 0,0:09:50.48,0:09:53.42,字幕,,0,0,0,,-有人开枪了吗 -是他\N{\fs40}- Did someone shoot it? - Him.
+Dialogue: 0,0:09:53.45,0:09:56.39,字幕,,0,0,0,,先不纠结这些了 好吗\N{\fs40}Let's not get bogged down in who shot what, okay?
+Dialogue: 0,0:09:56.43,0:09:59.49,字幕,,0,0,0,,咱们把衣服换了然后继续主持节目吧\N{\fs40}Let's get changed and get on with the show.
+Dialogue: 0,0:09:59.53,0:10:01.66,字幕,,0,0,0,,我们该继续吗\N{\fs40}Shall we get on with the show?
+Dialogue: 0,0:10:01.70,0:10:03.70,字幕,,0,0,0,,好的 来吧\N{\fs40}Let's do it.
+Dialogue: 0,0:10:24.25,0:10:26.10,字幕,,0,0,0,,谢谢大家\N{\fs40}Thank you, everybody!
+Dialogue: 0,0:10:26.11,0:10:27.89,字幕,,0,0,0,,非常感谢\N{\fs40}Thank you so much.
+Dialogue: 0,0:10:27.89,0:10:32.36,字幕,,0,0,0,,欢迎来到史上第一期GT的现场\N{\fs40}And welcome to the first ever Grand Tour.
+Dialogue: 0,0:10:36.60,0:10:41.53,字幕,,0,0,0,,谢谢 希望你们喜欢这个帐篷\N{\fs40}Thank you. Now, we hope you like our tent.
+Dialogue: 0,0:10:41.57,0:10:45.14,字幕,,0,0,0,,我们觉得最棒的是 因为我们会带着它周游世界\N{\fs40}We think the great thing is that because it roams around the world,
+Dialogue: 0,0:10:45.17,0:10:48.71,字幕,,0,0,0,,所以每周窗外的景色都不一样\N{\fs40}we get a different view out of the big picture windows every week.
+Dialogue: 0,0:10:48.75,0:10:50.46,字幕,,0,0,0,,比如这周 很明显外面\N{\fs40}So this week, obviously we've got
+Dialogue: 0,0:10:50.46,0:10:52.86,字幕,,0,0,0,,是加州的莫哈维沙漠\N{\fs40}the high desert of California.
+Dialogue: 0,0:10:52.89,0:10:55.21,字幕,,0,0,0,,-下周是哪里 没人知道  -我知道\N{\fs40}- Next week, who knows? - I do.
+Dialogue: 0,0:10:55.25,0:10:59.29,字幕,,0,0,0,,废话 詹姆斯 我们当然知道 是约翰内斯堡\N{\fs40}Well, yes, James, we know. It's Johannesburg.
+Dialogue: 0,0:10:59.32,0:11:02.69,字幕,,0,0,0,,-现在他们都知道了  -我知道 但是无所谓\N{\fs40}- Now they know. - I know they know! It doesn't matter!
+Dialogue: 0,0:11:02.72,0:11:05.76,字幕,,0,0,0,,重要的是景色每周都变 观众也如此\N{\fs40}The point is the view changes and so does the audience, okay?
+Dialogue: 0,0:11:05.80,0:11:08.26,字幕,,0,0,0,,这周你们都是美国人\N{\fs40}This week you're all Americans.
+Dialogue: 0,0:11:15.74,0:11:18.04,字幕,,0,0,0,,现在有这么一个小问题\N{\fs40}Now, this is a bit of a problem
+Dialogue: 0,0:11:18.07,0:11:21.07,字幕,,0,0,0,,对于我们这些说英语的人\N{\fs40}for people like us who speak English.
+Dialogue: 0,0:11:21.11,0:11:25.35,字幕,,0,0,0,,在商店餐厅这些地方交流都没问题\N{\fs40}We can converse perfectly well in a shop or a restaurant,
+Dialogue: 0,0:11:25.38,0:11:28.12,字幕,,0,0,0,,但当说到汽车与驾驶的时候\N{\fs40}but when it comes to cars and motoring,
+Dialogue: 0,0:11:28.15,0:11:31.15,字幕,,0,0,0,,你们和我们用的词都不一样\N{\fs40}every single word you use is different.
+Dialogue: 0,0:11:31.19,0:11:34.12,字幕,,0,0,0,,我的意思是你们说的都是错的\N{\fs40}When I say "different", I mean "wrong."
+Dialogue: 0,0:11:34.16,0:11:36.56,字幕,,0,0,0,,那根用来换挡的杆子你们叫什么\N{\fs40}When you change gear with a lever, what do you call that?
+Dialogue: 0,0:11:36.59,0:11:39.09,字幕,,0,0,0,,- Stick  - Stick\N{\fs40}- Stick. - Stick.
+Dialogue: 0,0:11:39.13,0:11:41.26,字幕,,0,0,0,,看好了 这才是Stick\N{\fs40}Now, you see, this is a stick.
+Dialogue: 0,0:11:41.30,0:11:43.36,字幕,,0,0,0,,没法用这个换挡\N{\fs40}Couldn't change gear with this.
+Dialogue: 0,0:11:43.40,0:11:46.10,字幕,,0,0,0,,不过倒是可以用来指指东西\N{\fs40}Wouldn't work. What you can do with this is point at things.
+Dialogue: 0,0:11:46.14,0:11:48.14,字幕,,0,0,0,,我来给你们上一课\N{\fs40}Let's see if we can get you educated.
+Dialogue: 0,0:11:48.15,0:11:50.14,字幕,,0,0,0,,车的这部分你们叫什么\N{\fs40}What do you call this bit of a car?
+Dialogue: 0,0:11:50.14,0:11:53.11,字幕,,0,0,0,,- The Hood  - Bonnet\N{\fs40}- The hood! - Bonnet.
+Dialogue: 0,0:11:50.14,0:11:53.11,顶端,,0,0,0,,hood又是帽衫的意思
+Dialogue: 0,0:11:53.14,0:11:55.64,字幕,,0,0,0,,- Bonnet - 他们在学习\N{\fs40}- Bonnet. - They're learning.
+Dialogue: 0,0:11:55.68,0:11:58.75,字幕,,0,0,0,,你说什么 我当然知道不能把Bonnet戴头上\N{\fs40}What do you mean? I know you can wear a bonnet on your head.
+Dialogue: 0,0:11:58.78,0:12:03.45,字幕,,0,0,0,,两种意思 我们是能够理解事物有两种意思的\N{\fs40}It's two things. We're capable of having those different thoughts.
+Dialogue: 0,0:12:03.49,0:12:05.89,字幕,,0,0,0,,-这种车你们叫什么  -Pick-up\N{\fs40}- What type of vehicle is this? Pick -up.
+Dialogue: 0,0:12:05.92,0:12:07.49,字幕,,0,0,0,,不是的 这种车叫蠢\N{\fs40}No, it's stupid.
+Dialogue: 0,0:12:07.49,0:12:10.79,字幕,,0,0,0,,-等等  -真的很蠢\N{\fs40}- Oh, now, hang on. - It is stupid.
+Dialogue: 0,0:12:10.83,0:12:13.09,字幕,,0,0,0,,再来个类似的\N{\fs40}Let's do another one of these.
+Dialogue: 0,0:12:13.13,0:12:17.00,字幕,,0,0,0,,-这是什么车型  -Coupe\N{\fs40}- What type of vehicle is this? Coupe.
+Dialogue: 0,0:12:17.03,0:12:20.18,字幕,,0,0,0,,Coupe吗 Coop是用来养鸡的\N{\fs40}Coupe? Coop is where you keep your chickens.
+Dialogue: 0,0:12:17.03,0:12:20.18,顶端,,0,0,0,,coop与coupe美语相近 coop 农业合作社
+Dialogue: 0,0:12:20.22,0:12:22.86,字幕,,0,0,0,,这叫Coupé 我承认这是个法语词\N{\fs40}That's a coupé. That's a French word, I admit.
+Dialogue: 0,0:12:22.90,0:12:25.47,字幕,,0,0,0,,- 是的  - 但他们把这个都搞混了\N{\fs40}- Yeah, a bit. - They're muddled with that.
+Dialogue: 0,0:12:25.51,0:12:28.28,字幕,,0,0,0,,你们知道乔治布什曾经说过什么吗 有关法国人\N{\fs40}George Bush, have you heard what he once said about the French?
+Dialogue: 0,0:12:28.31,0:12:30.11,字幕,,0,0,0,,他说 法国人的问题就在于 他们没有\N{\fs40}"The trouble with the French is they have no word
+Dialogue: 0,0:12:30.11,0:12:32.11,字幕,,0,0,0,,能够用来形容entrepreneur的词\N{\fs40}for entrepreneur."
+Dialogue: 0,0:12:30.11,0:12:32.11,顶端,,0,0,0,,entrepreneur：法语词，企业家
+Dialogue: 0,0:12:33.25,0:12:35.42,字幕,,0,0,0,,确实很难 我认为只有一个词是我们都认同的\N{\fs40}It is difficult. I think the only thing we agree on
+Dialogue: 0,0:12:35.45,0:12:37.62,字幕,,0,0,0,,- 方向盘 - 是的\N{\fs40}- is "steering wheel." - Yeah.
+Dialogue: 0,0:12:37.65,0:12:41.82,字幕,,0,0,0,,但他们又把方向盘的位置放反了\N{\fs40}But then they go and put it on the wrong side of the car.
+Dialogue: 0,0:12:41.86,0:12:46.29,字幕,,0,0,0,,一直这样开车一定挺麻烦的\N{\fs40}It must be really annoying having to drive along like that all the time.
+Dialogue: 0,0:12:46.33,0:12:49.38,字幕,,0,0,0,,就不能像我们一样 把方向盘放到驾驶员面前吗\N{\fs40}Why don't you just put it in front of the driver like we do?
+Dialogue: 0,0:12:49.42,0:12:52.43,字幕,,0,0,0,,我觉得我们还是继续节目吧\N{\fs40}It's probably a good idea if we get on with the actual show.
+Dialogue: 0,0:12:52.47,0:12:54.80,字幕,,0,0,0,,好主意 但要先澄清一下\N{\fs40}Yes, it is. But we had to clear all that up,
+Dialogue: 0,0:12:54.84,0:12:57.17,字幕,,0,0,0,,和某些人的说法不同\N{\fs40}because contrary to what some people have been saying,
+Dialogue: 0,0:12:57.21,0:12:59.54,字幕,,0,0,0,,这确实是一档汽车节目\N{\fs40}this actually is a car show.
+Dialogue: 0,0:12:59.57,0:13:02.31,字幕,,0,0,0,,-但下周不是  -下周是个特例\N{\fs40}- Well, not next week it isn't. - Next week is an exception.
+Dialogue: 0,0:13:02.34,0:13:04.28,字幕,,0,0,0,,-是的  -我们去巴巴多斯那期也不是\N{\fs40}- Yeah. - But not when we go to Barbados either.
+Dialogue: 0,0:13:04.28,0:13:07.13,字幕,,0,0,0,,没错 巴巴多斯绝对也是一个特例\N{\fs40}No, Barbados is definitely another exception.
+Dialogue: 0,0:13:07.17,0:13:09.95,字幕,,0,0,0,,但今晚绝对是一档纯正的汽车节目\N{\fs40}But tonight couldn't be more "car-y" if it tried.
+Dialogue: 0,0:13:09.98,0:13:13.15,字幕,,0,0,0,,我会证明的 因为今天要以它开场\N{\fs40}I'm gonna prove that point because we're kicking off with this.
+Dialogue: 0,0:13:17.19,0:13:20.13,字幕,,0,0,0,,等一下 等我说完\N{\fs40}Bear with me, bear with me-
+Dialogue: 0,0:13:20.16,0:13:22.90,字幕,,0,0,0,,我同意\N{\fs40}I agree!
+Dialogue: 0,0:13:22.93,0:13:24.10,字幕,,0,0,0,,我想说的是\N{\fs40}The thing is, though,
+Dialogue: 0,0:13:24.10,0:13:26.47,字幕,,0,0,0,,现在许多超级跑车制造商采用了\N{\fs40}various supercar makers have now taken
+Dialogue: 0,0:13:26.50,0:13:30.30,字幕,,0,0,0,,和普锐斯相同的保护生态环境技术\N{\fs40}the polar-bear-friendly technology from a Prius,
+Dialogue: 0,0:13:30.34,0:13:34.14,字幕,,0,0,0,,只不过是用来创造原始 野蛮的速度\N{\fs40}and they are now using it to create raw, naked speed.
+Dialogue: 0,0:13:34.18,0:13:37.41,字幕,,0,0,0,,我觉得在所有这些混动究极跑车中 最棒的是\N{\fs40}Now, I say the best of these hybrid hypercars
+Dialogue: 0,0:13:37.45,0:13:40.67,字幕,,0,0,0,,那辆疯狂的 斜着眼睛的迈凯伦P1\N{\fs40}is the mad, swivel-eyed McLaren P1.
+Dialogue: 0,0:13:40.70,0:13:43.89,字幕,,0,0,0,,而理查德 哈蒙德错误地认为\N{\fs40}Whereas Richard Hammond, who's wrong-
+Dialogue: 0,0:13:43.92,0:13:44.99,字幕,,0,0,0,,我没错\N{\fs40}I'm not wrong.
+Dialogue: 0,0:13:44.99,0:13:47.22,字幕,,0,0,0,,他错误地认为最棒的是\N{\fs40}He is, because he says the best
+Dialogue: 0,0:13:47.25,0:13:50.46,字幕,,0,0,0,,那辆无聊的保时捷918\N{\fs40}is actually the rather boring Porsche 918.
+Dialogue: 0,0:13:50.49,0:13:52.99,字幕,,0,0,0,,-一点也不无聊  -无聊\N{\fs40}- It's not boring! - Yes, it is.
+Dialogue: 0,0:13:53.03,0:13:54.81,字幕,,0,0,0,,-不无聊  -真的\N{\fs40}- It isn't. - Mm-hmm.
+Dialogue: 0,0:13:54.81,0:13:56.53,字幕,,0,0,0,,好吧 随你怎么说\N{\fs40}It isn't. Well, whatever.
+Dialogue: 0,0:13:56.53,0:13:59.55,字幕,,0,0,0,,我们决定开着这两辆车碰个头\N{\fs40}We decided to meet up with the cars
+Dialogue: 0,0:13:59.58,0:14:02.57,字幕,,0,0,0,,然后终结这场争论\N{\fs40}and settle this once and for all.
+Dialogue: 0,0:15:00.33,0:15:05.25,字幕,,0,0,0,,这场史诗对决的地点选在了葡萄牙\N{\fs40}The location we chose for this titanic duel was Portugal...
+Dialogue: 0,0:15:05.28,0:15:10.17,字幕,,0,0,0,,再具体点就是在阿尔加维赛道\N{\fs40}specifically, the international race track of the Algarve.
+Dialogue: 0,0:15:16.51,0:15:19.31,字幕,,0,0,0,,我们刚到 保时捷和迈凯伦的技术人员\N{\fs40}When we arrived, mechanics from Porsche
+Dialogue: 0,0:15:19.35,0:15:21.93,字幕,,0,0,0,,就立刻扑向了我们的车\N{\fs40}and McLaren pounced on our cars,
+Dialogue: 0,0:15:21.97,0:15:24.48,字幕,,0,0,0,,为接下来的对决做准备\N{\fs40}fettling them for what was to come.
+Dialogue: 0,0:15:24.52,0:15:27.59,字幕,,0,0,0,,这也意味着哈蒙德和我有时间\N{\fs40}And this meant Hammond and I had some time to indulge
+Dialogue: 0,0:15:27.62,0:15:31.56,字幕,,0,0,0,,来做一些幼稚的评头论足\N{\fs40}in a spot of childish point scoring.
+Dialogue: 0,0:15:31.59,0:15:34.83,字幕,,0,0,0,,哪辆车在这个赛道上是最快的\N{\fs40}Which one of these is going to be the fastest around this track?
+Dialogue: 0,0:15:34.86,0:15:36.23,字幕,,0,0,0,,-这辆吗  -是的\N{\fs40}- This? - Yeah.
+Dialogue: 0,0:15:36.23,0:15:38.50,字幕,,0,0,0,,除了这辆 哪辆更快\N{\fs40}Apart from this one, which will be faster.
+Dialogue: 0,0:15:38.53,0:15:41.17,字幕,,0,0,0,,不可能 你认为哪辆车最快\N{\fs40}It won't. Which one do you think will be the fastest?
+Dialogue: 0,0:15:41.20,0:15:43.10,字幕,,0,0,0,,-这辆  -这辆\N{\fs40}- This one. - This one.
+Dialogue: 0,0:15:43.10,0:15:46.41,字幕,,0,0,0,,所以两边都觉得自己的车最快\N{\fs40}Porsche think the Porsche will be fastest. McLaren say the McLaren.
+Dialogue: 0,0:15:46.44,0:15:48.51,字幕,,0,0,0,,如果我要买的话这车多少钱\N{\fs40}How much is it if I wanted to buy one?
+Dialogue: 0,0:15:48.54,0:15:52.08,字幕,,0,0,0,,我记得有一辆被拍卖到了180万\N{\fs40}I think one was sold in an auction for 1.8 million.
+Dialogue: 0,0:15:52.11,0:15:55.62,字幕,,0,0,0,,180万美元 哈蒙德 你的多少钱\N{\fs40}1.8 million dollars. Hammond, how much is yours?
+Dialogue: 0,0:15:55.65,0:15:57.62,字幕,,0,0,0,,838欧元\N{\fs40}838 euros.
+Dialogue: 0,0:15:57.62,0:16:00.49,字幕,,0,0,0,,-单位是千吗  -是的\N{\fs40}- Thousand I'm guessing? - Yes. It is thousands.
+Dialogue: 0,0:16:00.52,0:16:03.36,字幕,,0,0,0,,为什么你的车门上有个数字\N{\fs40}Why has your car got a number on the side?
+Dialogue: 0,0:16:03.39,0:16:05.36,字幕,,0,0,0,,这是Weissach特别版\N{\fs40}It's the Weissach edition, this one.
+Dialogue: 0,0:16:05.39,0:16:07.43,字幕,,0,0,0,,-它还配有钛合金底盘螺栓 -太蠢了\N{\fs40}- You also get titanium chassis bolts. - Stupid.
+Dialogue: 0,0:16:07.46,0:16:09.53,字幕,,0,0,0,,只需要多花上6万英镑\N{\fs40}For just an extra ?60.000.
+Dialogue: 0,0:16:09.56,0:16:13.37,字幕,,0,0,0,,还有个碳纤维引擎盖支架\N{\fs40}And a carbon-fiber bonnet strut.
+Dialogue: 0,0:16:13.40,0:16:14.80,字幕,,0,0,0,,看看 能省出多少重量来着\N{\fs40}Look at that. How much does that save?
+Dialogue: 0,0:16:14.80,0:16:17.79,字幕,,0,0,0,,-大概100克  -不错吧 100克呢\N{\fs40}- About 100 grams. - Right there, 100 grams.
+Dialogue: 0,0:16:17.82,0:16:20.74,字幕,,0,0,0,,迈凯伦有没有碳纤维引擎盖支架\N{\fs40}Has the McLaren got a carbon-fiber bonnet strut?
+Dialogue: 0,0:16:20.77,0:16:24.15,字幕,,0,0,0,,-我们不需要 -我不需要支起引擎盖\N{\fs40}- Doesn't need one. - No, because my bonnet doesn't go up
+Dialogue: 0,0:16:24.18,0:16:26.51,字幕,,0,0,0,,因为它永远不会抛锚\N{\fs40}because it will never break down.
+Dialogue: 0,0:16:26.55,0:16:29.48,字幕,,0,0,0,,而且它还有两扇呆门 正常门 呆门\N{\fs40}And it's got silly doors. Proper doors, silly doors.
+Dialogue: 0,0:16:29.52,0:16:33.12,字幕,,0,0,0,,我的百公里油耗只有8.3升\N{\fs40}Mine does 34 miles to the gallon.
+Dialogue: 0,0:16:33.16,0:16:35.35,字幕,,0,0,0,,我只有3升\N{\fs40}This does 94.
+Dialogue: 0,0:16:35.39,0:16:37.56,字幕,,0,0,0,,-百公里才3升吗  -3升\N{\fs40}- 94 miles to the gallon? - 94mpg.
+Dialogue: 0,0:16:37.59,0:16:39.73,字幕,,0,0,0,,提醒我一下 保时捷的母公司是\N{\fs40}Just remind me, Porsche is owned by?
+Dialogue: 0,0:16:39.76,0:16:41.76,字幕,,0,0,0,,大众\N{\fs40}That'll be Volkswagen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dialogue: 0,0:16:47.10,0:16:51.87,字幕,,0,0,0,,很快这两辆车都已准备好下赛道了\N{\fs40}Soon the McLaren and the Porsche were ready for some shakedown laps.
+Dialogue: 0,0:16:54.58,0:16:59.15,字幕,,0,0,0,,我们决定先开一开对方的车\N{\fs40}And for these we decided we'd drive each other's cars.
+Dialogue: 0,0:17:03.48,0:17:05.29,字幕,,0,0,0,,一上来我就能告诉你\N{\fs40}Straight away, I can tell you
+Dialogue: 0,0:17:05.29,0:17:08.76,字幕,,0,0,0,,这辆车没有迈凯伦的\N{\fs40}that this doesn't have the brutality or the savagery
+Dialogue: 0,0:17:08.79,0:17:11.66,字幕,,0,0,0,,那种残暴和野蛮\N{\fs40}of the McLaren.
+Dialogue: 0,0:17:11.69,0:17:15.73,字幕,,0,0,0,,因为它有后轮转向和四轮驱动\N{\fs40}Because it has rear-wheel steering and four-wheel drive,
+Dialogue: 0,0:17:15.76,0:17:18.60,字幕,,0,0,0,,让人感觉很放心和安全\N{\fs40}it feels secure and safe.
+Dialogue: 0,0:17:18.63,0:17:20.83,字幕,,0,0,0,,而这也会给你信心\N{\fs40}And that gives you the confidence-
+Dialogue: 0,0:17:23.30,0:17:25.41,字幕,,0,0,0,,让你自由发挥\N{\fs40}...to play about.
+Dialogue: 0,0:17:34.92,0:17:39.59,字幕,,0,0,0,,如果我用迈凯伦以这个速度过这个弯\N{\fs40}If I went round this corner this fast in the McLaren...
+Dialogue: 0,0:17:41.92,0:17:44.46,字幕,,0,0,0,,会有很多翔跑出来的\N{\fs40}...a lot of poo would come out.
+Dialogue: 0,0:17:50.36,0:17:53.23,字幕,,0,0,0,,已经有翔跑出来了\N{\fs40}Whoa! There's poo coming out now!
+Dialogue: 0,0:17:56.50,0:17:58.50,字幕,,0,0,0,,天啊\N{\fs40}Jesus.
+Dialogue: 0,0:17:59.54,0:18:02.41,字幕,,0,0,0,,轮胎在六档还特么的打滑\N{\fs40}It's spinning its wheels in sixth!
+Dialogue: 0,0:18:07.45,0:18:09.82,字幕,,0,0,0,,这车太吓人了\N{\fs40}This is frightening, that's what it is.
+Dialogue: 0,0:18:12.32,0:18:15.12,字幕,,0,0,0,,哇 更多的翔\N{\fs40}Whoa! More poo.
+Dialogue: 0,0:18:15.16,0:18:19.33,字幕,,0,0,0,,我从没想到一个人会因吓出的翔太多而死\N{\fs40}I didn't think it was possible to shit yourself to death.
+Dialogue: 0,0:18:32.71,0:18:36.18,字幕,,0,0,0,,抓地力实在是太棒了\N{\fs40}The grip is genuinely incredible.
+Dialogue: 0,0:18:40.41,0:18:42.98,字幕,,0,0,0,,这才对嘛\N{\fs40}Oh, there you go.
+Dialogue: 0,0:18:43.02,0:18:45.60,字幕,,0,0,0,,在这辆残暴而无情的P1里\N{\fs40}In the savage and unforgiving P1,
+Dialogue: 0,0:18:45.64,0:18:48.70,字幕,,0,0,0,,我脆弱的神经都碎成了渣渣\N{\fs40}my nerves were shot to pieces.
+Dialogue: 0,0:18:48.73,0:18:51.76,字幕,,0,0,0,,但也深深地爱上了它\N{\fs40}But I, too, was falling in love.
+Dialogue: 0,0:18:51.79,0:18:54.36,字幕,,0,0,0,,903匹马力\N{\fs40}903 horsepower.
+Dialogue: 0,0:18:56.96,0:18:58.96,字幕,,0,0,0,,上帝啊\N{\fs40}Oh, my God!
+Dialogue: 0,0:19:01.07,0:19:03.20,字幕,,0,0,0,,你这个淘气的坏家伙\N{\fs40}Oh, you bad, bad, naughty car!
+Dialogue: 0,0:19:07.87,0:19:09.87,字幕,,0,0,0,,天呐\N{\fs40}Jesus.
+Dialogue: 0,0:19:11.55,0:19:13.81,字幕,,0,0,0,,这辆车会刷新你的认知\N{\fs40}This recalibrates your mind.
+Dialogue: 0,0:19:13.85,0:19:17.08,字幕,,0,0,0,,我本以为没有车能像918那样充满激情\N{\fs40}I didn't think anything could be as exciting as that Porsche,
+Dialogue: 0,0:19:17.12,0:19:19.69,字幕,,0,0,0,,但是它做到了\N{\fs40}but this- this is.
+Dialogue: 0,0:19:23.39,0:19:25.39,字幕,,0,0,0,,这辆车太棒了\N{\fs40}This is brilliant.
+Dialogue: 0,0:19:26.96,0:19:31.00,字幕,,0,0,0,,真的太棒了\N{\fs40}Absolutely brilliant.
+Dialogue: 0,0:19:31.03,0:19:33.03,字幕,,0,0,0,,噢\N{\fs40}Oh.
+Dialogue: 0,0:19:33.03,0:19:34.84,字幕,,0,0,0,,一辆神奇的车\N{\fs40}What a car.
+Dialogue: 0,0:19:34.84,0:19:36.84,字幕,,0,0,0,,我太爱它了\N{\fs40}I love it.
+Dialogue: 0,0:19:39.24,0:19:42.04,字幕,,0,0,0,,-怎么样  -真是辆破车\N{\fs40}- Well? - This is rubbish!
+Dialogue: 0,0:19:42.08,0:19:44.45,字幕,,0,0,0,,巧了 我也是这么想的\N{\fs40}I was just thinking exactly the same about this.
+Dialogue: 0,0:19:44.48,0:19:46.15,字幕,,0,0,0,,-是吗  -它无聊到让我想死\N{\fs40}- Were you? - This was boring me to death.
+Dialogue: 0,0:19:46.15,0:19:50.62,字幕,,0,0,0,,像维多利亚时期的女性小说一样无聊\N{\fs40}It was like being stuck in a Victorian woman's novel.
+Dialogue: 0,0:19:50.65,0:19:54.52,字幕,,0,0,0,,总比和一只发疯的猩猩被困在一个电话亭里强\N{\fs40}I'd rather that than being stuck in a telephone box with a panicking gorilla.
+Dialogue: 0,0:19:54.52,0:19:55.97,字幕,,0,0,0,,- 破车  - 它想杀了我\N{\fs40}- Rubbish.- It was trying to kill me.
+Dialogue: 0,0:19:55.97,0:19:58.89,字幕,,0,0,0,,- 它一直想害死我  - 我就喜欢这点\N{\fs40}- It wants to hurt me.- That's why I like it.
+Dialogue: 0,0:19:58.89,0:20:01.06,字幕,,0,0,0,,这辆车就好比传教士体位\N{\fs40}This is a missionary-position car.
+Dialogue: 0,0:20:01.09,0:20:03.79,字幕,,0,0,0,,外科医生手中的刀片\N{\fs40}Razor blade in the hands of a surgeon.
+Dialogue: 0,0:20:03.83,0:20:06.46,字幕,,0,0,0,,醉酒农民手中的镰刀\N{\fs40}Sickle in the hands of a drunk peasant.
+Dialogue: 0,0:20:06.49,0:20:10.16,字幕,,0,0,0,,唐顿庄园 绝命毒师 那是冰毒\N{\fs40}Downton Abbey. Breaking Bad. That's crystal meth.
+Dialogue: 0,0:20:10.20,0:20:11.83,字幕,,0,0,0,,这是一捆大麻\N{\fs40}That's some iffy weed.
+Dialogue: 0,0:20:11.83,0:20:15.47,字幕,,0,0,0,,一瓶上等红酒 一箱纽卡索啤酒\N{\fs40}Fine wine. Crate of Newcy Brown.
+Dialogue: 0,0:20:16.54,0:20:19.57,字幕,,0,0,0,,大杯雪莉酒 苦艾酒\N{\fs40}Schooner of sherry. Absinthe.
+Dialogue: 0,0:20:19.61,0:20:21.34,字幕,,0,0,0,,詹姆斯邦德吩咐\N{\fs40}James Bond specifying
+Dialogue: 0,0:20:21.34,0:20:23.38,字幕,,0,0,0,,马天尼是用摇的而不能搅\N{\fs40}his martini to be shaken not stirred.
+Dialogue: 0,0:20:23.41,0:20:24.91,字幕,,0,0,0,,猜火车里的贝格比\N{\fs40}Begbie in Trainspotting
+Dialogue: 0,0:20:24.91,0:20:26.75,字幕,,0,0,0,,在夜店把啤酒杯抛过自己的肩膀\N{\fs40}lobbing a pint pot over his shoulder in a night club
+Dialogue: 0,0:20:26.75,0:20:29.52,字幕,,0,0,0,,然后干一架 咋了\N{\fs40}and starting a bar fight. What?
+Dialogue: 0,0:20:34.42,0:20:36.09,字幕,,0,0,0,,你们好呀\N{\fs40}Hi.
+Dialogue: 0,0:20:36.09,0:20:38.06,字幕,,0,0,0,,你来干什么\N{\fs40}What are you doing here?
+Dialogue: 0,0:20:38.06,0:20:39.96,字幕,,0,0,0,,二位 我来是因为\N{\fs40}I'm here because, gentlemen,
+Dialogue: 0,0:20:39.96,0:20:41.96,字幕,,0,0,0,,在我卡车的后面有一辆\N{\fs40}I have in the back of that lorry
+Dialogue: 0,0:20:42.00,0:20:44.83,字幕,,0,0,0,,使你们的迈凯伦和保时捷\N{\fs40}something that will make your McLaren and your Porsche
+Dialogue: 0,0:20:44.87,0:20:47.23,字幕,,0,0,0,,看起来相形见绌的车\N{\fs40}look like lumps of yesteryear.
+Dialogue: 0,0:21:15.23,0:21:17.16,字幕,,0,0,0,,我想不起来上次一辆车\N{\fs40}I cannot remember the last time a car,
+Dialogue: 0,0:21:17.17,0:21:19.03,字幕,,0,0,0,,或者其他任何东西\N{\fs40}or, indeed, any sort of thing,
+Dialogue: 0,0:21:19.03,0:21:21.84,字幕,,0,0,0,,像拉法一样让我如此兴奋了\N{\fs40}gave me a fizz like the Ferrari LaFerrari.
+Dialogue: 0,0:21:23.60,0:21:26.64,字幕,,0,0,0,,这辆车有950匹马力\N{\fs40}This has 950 horsepower.
+Dialogue: 0,0:21:26.68,0:21:28.68,字幕,,0,0,0,,950匹啊\N{\fs40}950.
+Dialogue: 0,0:21:29.61,0:21:31.44,字幕,,0,0,0,,马力比其他两辆都大\N{\fs40}More than either of the other two.
+Dialogue: 0,0:21:31.44,0:21:34.25,字幕,,0,0,0,,而且还更轻 只有1250公斤\N{\fs40}And it's lighter. It weighs 1.250 kilograms.
+Dialogue: 0,0:21:37.18,0:21:40.15,字幕,,0,0,0,,这比大部分掀背车都轻\N{\fs40}Which is less than most hatchbacks.
+Dialogue: 0,0:21:42.86,0:21:45.09,字幕,,0,0,0,,实际上拉法的本事还不止于此\N{\fs40}Actually there is a bit more to the Ferrari LaFerrari,
+Dialogue: 0,0:21:45.13,0:21:49.96,字幕,,0,0,0,,因为它配备了F1的KERS系统\N{\fs40}because what it has is, in effect, a formula one KERS system.
+Dialogue: 0,0:21:50.00,0:21:54.80,字幕,,0,0,0,,能够随时通过电机和电池\N{\fs40}It constantly recovers energy that would otherwise be lost
+Dialogue: 0,0:21:54.84,0:21:57.20,字幕,,0,0,0,,回收原本会被浪费的能量\N{\fs40}using its electric motor and its battery.
+Dialogue: 0,0:21:57.24,0:21:59.97,字幕,,0,0,0,,所以当我踩下刹车的时候\N{\fs40}So as I brake there,
+Dialogue: 0,0:22:00.01,0:22:03.88,字幕,,0,0,0,,车子其实在说 这些能量我全要了\N{\fs40}the car is actually saying, "That energy, I'll have that."
+Dialogue: 0,0:22:04.81,0:22:05.89,字幕,,0,0,0,,很直接\N{\fs40}Straight!
+Dialogue: 0,0:22:08.28,0:22:11.89,字幕,,0,0,0,,这才是950匹马力应有的感觉\N{\fs40}This is what 950 horsepower feels like!
+Dialogue: 0,0:22:16.56,0:22:17.89,字幕,,0,0,0,,天呐\N{\fs40}Jesus!
+Dialogue: 0,0:22:22.53,0:22:26.93,字幕,,0,0,0,,我相信它能够碾碎那两辆车\N{\fs40}This I believe will absolutely mince the other two.
+Dialogue: 0,0:22:26.97,0:22:28.97,字幕,,0,0,0,,这速度\N{\fs40}Oh, man!
+Dialogue: 0,0:22:30.57,0:22:33.31,字幕,,0,0,0,,詹姆斯显然在鬼扯\N{\fs40}James was obviously talking nonsense.
+Dialogue: 0,0:22:33.34,0:22:36.01,字幕,,0,0,0,,但毫无疑问的是\N{\fs40}But there's no getting around the fact
+Dialogue: 0,0:22:36.04,0:22:38.28,字幕,,0,0,0,,这三台车将汽车科技\N{\fs40}that these three cars take automotive science
+Dialogue: 0,0:22:38.31,0:22:40.31,字幕,,0,0,0,,带入了新纪元\N{\fs40}to a new level.
+Dialogue: 0,0:22:42.52,0:22:45.25,字幕,,0,0,0,,它们运用最新的环保技术\N{\fs40}They use the latest green technology
+Dialogue: 0,0:22:45.29,0:22:47.99,字幕,,0,0,0,,从每滴燃油中\N{\fs40}to squeeze as much speed as possible
+Dialogue: 0,0:22:48.02,0:22:50.79,字幕,,0,0,0,,压榨出更多速度\N{\fs40}from every molecule of fuel.
+Dialogue: 0,0:22:52.33,0:22:55.50,字幕,,0,0,0,,结果便是 它们都有能力\N{\fs40}As a result, they're all capable of blasting
+Dialogue: 0,0:22:55.53,0:22:57.90,字幕,,0,0,0,,在极速超过 320Km/h 的同时\N{\fs40}way past 200 miles an hour
+Dialogue: 0,0:22:57.93,0:23:02.20,字幕,,0,0,0,,排出比家用车还少的有害物质\N{\fs40}whilst producing fewer harmful emissions than a family saloon.
+Dialogue: 0,0:23:07.61,0:23:12.31,字幕,,0,0,0,,这是三台令人难以置信的机器\N{\fs40}What we have here, then, are three incredible machines
+Dialogue: 0,0:23:12.35,0:23:14.15,字幕,,0,0,0,,它们的横空出世\N{\fs40}which, at a stroke,
+Dialogue: 0,0:23:14.15,0:23:17.38,字幕,,0,0,0,,使传统的超级跑车显得\N{\fs40}have made the traditional supercar look wooden...
+Dialogue: 0,0:23:17.42,0:23:19.42,字幕,,0,0,0,,既简陋又落后\N{\fs40}and old-fashioned.
+Dialogue: 0,0:23:22.12,0:23:25.89,字幕,,0,0,0,,各位 欢迎来到三神车的世界\N{\fs40}Welcome, everyone, to the hypercar holy trinity.
+Dialogue: 0,0:23:29.30,0:23:33.72,字幕,,0,0,0,,左后视镜里是价值100万英镑的保时捷\N{\fs40}In that door mirror I have a one million Porsche.
+Dialogue: 0,0:23:33.75,0:23:38.14,字幕,,0,0,0,,右后视镜里是价值100万英镑的法拉利\N{\fs40}In that door mirror I have a one million Ferrari.
+Dialogue: 0,0:23:40.47,0:23:42.47,字幕,,0,0,0,,今天真是玩过瘾了\N{\fs40}What a toy box today.
+Dialogue: 0,0:23:48.92,0:23:51.05,字幕,,0,0,0,,大猩猩的屁股冒出了火花\N{\fs40}Sparks from Jezzer.
+Dialogue: 0,0:23:57.52,0:23:59.52,字幕,,0,0,0,,你干不掉我的 哈蒙德\N{\fs40}I don't think so, Hammond.
+Dialogue: 0,0:24:07.00,0:24:09.14,字幕,,0,0,0,,这应该相当昂贵\N{\fs40}This could be so expensive.
+Dialogue: 0,0:24:18.98,0:24:21.18,字幕,,0,0,0,,我要提速了\N{\fs40}It's going to boost.
+Dialogue: 0,0:24:21.22,0:24:23.35,字幕,,0,0,0,,按下 IPAS\N{\fs40}Pushing the IPAS button!
+Dialogue: 0,0:24:23.38,0:24:27.39,字幕,,0,0,0,,我额外获得了170匹马力\N{\fs40}And that gives me another 170 horsepower.
+Dialogue: 0,0:24:30.19,0:24:32.19,字幕,,0,0,0,,启动 DRS\N{\fs40}Opening DRS!
+Dialogue: 0,0:24:33.79,0:24:35.80,字幕,,0,0,0,,噢我的天啊\N{\fs40}Oh, my Christ!
+Dialogue: 0,0:24:35.83,0:24:38.13,字幕,,0,0,0,,太快了\N{\fs40}Bloody...
+Dialogue: 0,0:24:38.16,0:24:41.00,字幕,,0,0,0,,开着拉法的梅来了\N{\fs40}And here comes May in the Ferrari LaFerrari.
+Dialogue: 0,0:24:46.24,0:24:49.21,字幕,,0,0,0,,集中精神 不要分心\N{\fs40}Concentrating. Concentrating.
+Dialogue: 0,0:25:01.09,0:25:03.45,字幕,,0,0,0,,噢吼 那辆该死的车\N{\fs40}Oh-oh! That bloody car
+Dialogue: 0,0:25:03.49,0:25:05.49,字幕,,0,0,0,,我不在里面的时候也想搞死我\N{\fs40}is trying to kill me, and I'm not even in it.
+Dialogue: 0,0:25:08.06,0:25:08.68,字幕,,0,0,0,,哈哈\N{\fs40}Ha-ha!
+Dialogue: 0,0:25:20.84,0:25:23.67,字幕,,0,0,0,,我们本可这样玩一整天\N{\fs40}We could have played out there all day,
+Dialogue: 0,0:25:23.71,0:25:27.35,字幕,,0,0,0,,但在一场价值300万英镑的车祸发生之前\N{\fs40}but before we ended up in a three million pound crash,
+Dialogue: 0,0:25:27.38,0:25:29.35,字幕,,0,0,0,,我们决定还是先开始测试\N{\fs40}we decided to start the tests
+Dialogue: 0,0:25:29.38,0:25:32.22,字幕,,0,0,0,,看看谁的车才是最好的\N{\fs40}to see which of the cars was best.
+Dialogue: 0,0:25:32.25,0:25:33.89,字幕,,0,0,0,,我想出了第一个测试\N{\fs40}I came up with the first one,
+Dialogue: 0,0:25:33.89,0:25:37.12,字幕,,0,0,0,,主要是为了欺负梅这个不速之客\N{\fs40}mainly to annoy gate-crasher May.
+Dialogue: 0,0:25:37.16,0:25:40.33,字幕,,0,0,0,,咱们的第一个测试是直线加速赛\N{\fs40}Let's make the first test a drag race
+Dialogue: 0,0:25:40.36,0:25:44.30,字幕,,0,0,0,,-但只能用电能 -好主意\N{\fs40}- using electrical power only. - Good idea.
+Dialogue: 0,0:25:44.33,0:25:47.00,字幕,,0,0,0,,-才不是呢  -为什么\N{\fs40}- It isn't a good idea. - Why not?
+Dialogue: 0,0:25:47.03,0:25:49.87,字幕,,0,0,0,,因为拉法不能用纯电驱动\N{\fs40}Because you can't drive the Ferrari on electrical power only.
+Dialogue: 0,0:25:49.91,0:25:52.84,字幕,,0,0,0,,-不是吧  -当然不能了\N{\fs40}- No! - Of course you can't,
+Dialogue: 0,0:25:52.87,0:25:54.94,字幕,,0,0,0,,因为它用的是类似F1的KERS系统\N{\fs40}because it's a KERS system like a Formula One car.
+Dialogue: 0,0:25:54.98,0:25:57.84,字幕,,0,0,0,,有一台V12引擎和一个电动机\N{\fs40}It's got a V12 engine and an electric motor,
+Dialogue: 0,0:25:57.88,0:26:01.13,字幕,,0,0,0,,但二者是集成的 只能同时工作\N{\fs40}but they are integrated, they work together, you can't separate them.
+Dialogue: 0,0:26:01.17,0:26:04.38,字幕,,0,0,0,,-你早就该想到的 不是吗  -大意了吧\N{\fs40}- You should have thought about that, shouldn't you? - Bad planning.
+Dialogue: 0,0:26:06.09,0:26:08.85,字幕,,0,0,0,,把詹姆斯贬为旁观者之后\N{\fs40}With James reduced to the role of onlooker,
+Dialogue: 0,0:26:08.89,0:26:12.71,字幕,,0,0,0,,我俩把P1和918摆到了起点\N{\fs40}we lined up the P1 and the 918 on the start line,
+Dialogue: 0,0:26:12.74,0:26:16.53,字幕,,0,0,0,,但我们并没有轰油门\N{\fs40}but then, instead of revving the petrol engines,
+Dialogue: 0,0:26:16.56,0:26:18.90,字幕,,0,0,0,,而是关掉发动机\N{\fs40}we shut them down.
+Dialogue: 0,0:26:23.10,0:26:25.10,字幕,,0,0,0,,太诡异了\N{\fs40}That is weird.
+Dialogue: 0,0:26:25.14,0:26:28.44,字幕,,0,0,0,,在一片寂静中准备\N{\fs40}Preparing to start a drag race
+Dialogue: 0,0:26:28.48,0:26:30.78,字幕,,0,0,0,,开始一场直线加速赛\N{\fs40}in complete silence.
+Dialogue: 0,0:26:30.81,0:26:33.41,字幕,,0,0,0,,我现在仍然拥有两个电动机\N{\fs40}I still have two electric motors
+Dialogue: 0,0:26:33.45,0:26:36.78,字幕,,0,0,0,,总共能产生285匹的马力\N{\fs40}that together produce 285 brake horsepower
+Dialogue: 0,0:26:36.82,0:26:38.42,字幕,,0,0,0,,比他那辆迈凯伦\N{\fs40}which is 109 more
+Dialogue: 0,0:26:38.42,0:26:43.56,字幕,,0,0,0,,上面的单电机要多了109匹 噢耶\N{\fs40}than the one electric motor in his McLaren. Oh, yeah.
+Dialogue: 0,0:26:53.93,0:26:56.07,字幕,,0,0,0,,我先走一步\N{\fs40}I'm outta here!
+Dialogue: 0,0:26:56.10,0:26:58.74,字幕,,0,0,0,,你一定会喜欢电动机\N{\fs40}You've got to love that, the immediate power
+Dialogue: 0,0:26:58.77,0:27:01.14,字幕,,0,0,0,,这种直接的动力输出\N{\fs40}from an electrical engine.
+Dialogue: 0,0:27:01.17,0:27:05.21,字幕,,0,0,0,,现在时速已经超过110公里了 但还是不够快\N{\fs40}That is 70 miles an hour already and it isn't enough.
+Dialogue: 0,0:27:17.96,0:27:20.99,字幕,,0,0,0,,刚才谁赢了 是我吗\N{\fs40}Who won that? It was me, wasn't it?
+Dialogue: 0,0:27:21.03,0:27:23.06,字幕,,0,0,0,,是你赢了 但这并不重要\N{\fs40}Yeah, but it's not important though, is it?
+Dialogue: 0,0:27:23.10,0:27:24.86,字幕,,0,0,0,,-真的不重要吗  -并没有什么意义\N{\fs40}- Is it not? - It's just not relevant.
+Dialogue: 0,0:27:24.87,0:27:26.43,字幕,,0,0,0,,好吧 好吧\N{\fs40}Right, right.
+Dialogue: 0,0:27:26.43,0:27:29.14,字幕,,0,0,0,,直线加速赛的意义就是看谁先通过终点\N{\fs40}In a drag race, it's irrelevant which car gets there first?
+Dialogue: 0,0:27:29.17,0:27:32.37,字幕,,0,0,0,,没错 你这辆更适合当送奶车\N{\fs40}Yeah, yours is the better milk float.
+Dialogue: 0,0:27:34.84,0:27:39.24,字幕,,0,0,0,,回到P房 哈蒙德想出了下一个测试\N{\fs40}Back in the pits, Hammond had an idea for the next test.
+Dialogue: 0,0:27:39.28,0:27:42.13,字幕,,0,0,0,,我们要开车去酒店 离这里大概有一个小时\N{\fs40}We've got to drive to the hotel yet. It's about an hour away.
+Dialogue: 0,0:27:42.17,0:27:44.99,字幕,,0,0,0,,正好给了我们一个机会 看看它们在公路上的表现\N{\fs40}It gives us a chance to see what they're like on the road.
+Dialogue: 0,0:27:45.02,0:27:47.39,字幕,,0,0,0,,-很有道理  -回到现实世界\N{\fs40}- That's a good point. - Real world.
+Dialogue: 0,0:27:47.42,0:27:49.97,字幕,,0,0,0,,-点子不错  -我做不到\N{\fs40}- That is a good point. - I can't do that.
+Dialogue: 0,0:27:50.01,0:27:52.53,字幕,,0,0,0,,我不能把拉法开上路\N{\fs40}I can't drive the Ferrari on the road.
+Dialogue: 0,0:27:52.56,0:27:54.58,字幕,,0,0,0,,-为什么  -这辆车还没注册\N{\fs40}- Why? - It's not registered.
+Dialogue: 0,0:27:54.61,0:27:56.60,字幕,,0,0,0,,不是啊 上面还挂着牌照呢\N{\fs40}It is, it's got number plates.
+Dialogue: 0,0:27:56.60,0:27:58.46,字幕,,0,0,0,,不 那只是个假的牌照\N{\fs40}No, that's just pretend number plates.
+Dialogue: 0,0:27:58.46,0:28:00.40,字幕,,0,0,0,,如果注册了的话 这辆车就变成二手车了\N{\fs40}If they register it, it becomes second-hand
+Dialogue: 0,0:28:00.40,0:28:02.24,字幕,,0,0,0,,还要交税 所以我才用卡车运过来\N{\fs40}and they pay tax. That's why it came in the lorry.
+Dialogue: 0,0:28:02.24,0:28:04.25,字幕,,0,0,0,,所以你也不能把它开上路\N{\fs40}So you can't drive it on the road either?
+Dialogue: 0,0:28:04.29,0:28:06.29,字幕,,0,0,0,,谁也不行 上路是非法的\N{\fs40}Nobody can drive it. It's not road legal.
+Dialogue: 0,0:28:06.31,0:28:08.97,字幕,,0,0,0,,-噢 不  -兄弟 真扫兴\N{\fs40}- Oh, no. - Mate, that's...
+Dialogue: 0,0:28:09.01,0:28:11.61,字幕,,0,0,0,,-太遗憾了  -你要开一个小时的\N{\fs40}- That is such a shame. - It's an hour of-
+Dialogue: 0,0:28:11.65,0:28:13.71,字幕,,0,0,0,,你今天真是太不走运了\N{\fs40}That's really a rotten bit of luck.
+Dialogue: 0,0:28:13.75,0:28:15.88,字幕,,0,0,0,,从意大利千里遥遥地开过来\N{\fs40}'Cause you've come a long way from Italy.
+Dialogue: 0,0:28:15.92,0:28:17.75,字幕,,0,0,0,,我也不能带你一程\N{\fs40}I can't give you a lift
+Dialogue: 0,0:28:17.75,0:28:20.62,字幕,,0,0,0,,因为录音师的设备都在副驾座位上\N{\fs40}'cause the soundman's headphones are on the seat and the mixer.
+Dialogue: 0,0:28:20.66,0:28:22.42,字幕,,0,0,0,,太惨了\N{\fs40}Oh, no.
+Dialogue: 0,0:28:22.42,0:28:24.42,字幕,,0,0,0,,我真的无能为力了\N{\fs40}There's literally nothing I can do.
+Dialogue: 0,0:28:27.59,0:28:30.31,字幕,,0,0,0,,不久之后 理查德和我便开始享受\N{\fs40}Soon Richard and I were enjoying
+Dialogue: 0,0:28:30.35,0:28:33.03,字幕,,0,0,0,,世界上最美妙的一段旅程了\N{\fs40}the world's best-ever commute.
+Dialogue: 0,0:28:40.47,0:28:42.76,字幕,,0,0,0,,内饰看起来可能有些粗犷\N{\fs40}It may be a bit Spartan in here,
+Dialogue: 0,0:28:42.79,0:28:45.05,字幕,,0,0,0,,但开起来却出人意料地舒适\N{\fs40}but it's unbelievably comfortable.
+Dialogue: 0,0:28:45.95,0:28:49.18,字幕,,0,0,0,,因为它的防倾杆\N{\fs40}Because it uses electronics
+Dialogue: 0,0:28:49.22,0:28:51.47,字幕,,0,0,0,,已经电子化了\N{\fs40}rather than traditional anti-roll bars.
+Dialogue: 0,0:28:51.50,0:28:53.72,字幕,,0,0,0,,也就是说车轮之间\N{\fs40}That means there's no physical connection
+Dialogue: 0,0:28:53.75,0:28:55.55,字幕,,0,0,0,,没有机械上的连接\N{\fs40}between the wheels.
+Dialogue: 0,0:28:55.56,0:28:59.14,字幕,,0,0,0,,所以当一个车轮遇到颠簸的时候 其他车轮不会受到影响\N{\fs40}So if one goes over a bump the others aren't affected.
+Dialogue: 0,0:28:59.18,0:29:02.73,字幕,,0,0,0,,太不可思议了 就像在开劳斯莱斯幻影\N{\fs40}It's uncanny. It's like being in a Rolls-Royce Phantom.
+Dialogue: 0,0:29:06.23,0:29:09.97,字幕,,0,0,0,,天气不错 把顶棚拆下来\N{\fs40}It's a lovely evening. Taken the roof panels out.
+Dialogue: 0,0:29:10.00,0:29:12.04,字幕,,0,0,0,,空调开到合适的温度\N{\fs40}Set the air-con just so.
+Dialogue: 0,0:29:12.07,0:29:14.17,字幕,,0,0,0,,享受在这乡间开车的感觉\N{\fs40}And I'm enjoying a drive in the country.
+Dialogue: 0,0:29:27.06,0:29:29.15,字幕,,0,0,0,,与此同时\N{\fs40}Meanwhile...
+Dialogue: 0,0:30:04.22,0:30:06.63,字幕,,0,0,0,,我勒个擦\N{\fs40}Oh, bloody hell.
+Dialogue: 0,0:30:10.24,0:30:12.36,字幕,,0,0,0,,倒 倒 倒\N{\fs40}You're all right.
+Dialogue: 0,0:30:12.36,0:30:14.29,字幕,,0,0,0,,意大利语的 倒 倒 倒\N{\fs40}You're all right, in Italian.
+Dialogue: 0,0:30:22.97,0:30:25.01,字幕,,0,0,0,,天啊\N{\fs40}Oh, God.
+Dialogue: 0,0:30:32.11,0:30:33.81,字幕,,0,0,0,,-詹姆斯 -干啥\N{\fs40}- James. - What?
+Dialogue: 0,0:30:34.24,0:30:36.95,字幕,,0,0,0,,虽然很遗憾 但是我得说法拉利太没用了\N{\fs40}I'm sorry to have to say this, but that Ferrari is useless.
+Dialogue: 0,0:30:36.98,0:30:39.48,字幕,,0,0,0,,好好好 一会第二节里\N{\fs40}Yes, yes, yes. Later on in part two,
+Dialogue: 0,0:30:39.52,0:30:41.99,字幕,,0,0,0,,这哥俩终于放弃那些\N{\fs40}when these two have stopped dreaming up
+Dialogue: 0,0:30:42.02,0:30:43.69,字幕,,0,0,0,,毫不相关的愚蠢测试之后\N{\fs40}idiotic and irrelevant tests
+Dialogue: 0,0:30:43.69,0:30:47.52,字幕,,0,0,0,,我们才会见分晓\N{\fs40}that it can't take part in, we shall see.
+Dialogue: 0,0:30:47.56,0:30:49.36,字幕,,0,0,0,,行行行 这个环节里\N{\fs40}Fair enough. Now,
+Dialogue: 0,0:30:49.36,0:30:51.83,字幕,,0,0,0,,我们仨坐下聊聊\N{\fs40}at this point in the show we like to sit down
+Dialogue: 0,0:30:51.86,0:30:55.30,字幕,,0,0,0,,新车和汽车行业的那些事\N{\fs40}and chew the fat about new cars and motoring issues.
+Dialogue: 0,0:30:55.33,0:30:59.00,字幕,,0,0,0,,比如 凭啥英国要在修路期间限速80\N{\fs40}Like, for example, why in Britain we have to drive at 50 miles an hour
+Dialogue: 0,0:30:59.04,0:31:02.67,字幕,,0,0,0,,然而并没有人在干活\N{\fs40}when they're doing roadworks to protect the workforce which is never there.
+Dialogue: 0,0:31:02.71,0:31:04.37,字幕,,0,0,0,,好吧好吧\N{\fs40}Yes, okay...
+Dialogue: 0,0:31:04.37,0:31:06.37,字幕,,0,0,0,,而且为啥那些成熟的成年人\N{\fs40}And why fully-grown adults
+Dialogue: 0,0:31:06.38,0:31:09.81,字幕,,0,0,0,,要骑着儿童玩具在城市穿梭呢\N{\fs40}have taken to riding around the city on children's toys?
+Dialogue: 0,0:31:09.85,0:31:12.37,字幕,,0,0,0,,-是 没错-我觉得那叫自行车\N{\fs40}- Yes, okay. - I think they're called bicycles.
+Dialogue: 0,0:31:12.40,0:31:15.33,字幕,,0,0,0,,-这词没错吧-并不是那样的问题\N{\fs40}- Is that the right word? - It's issues like that.
+Dialogue: 0,0:31:15.36,0:31:18.25,字幕,,0,0,0,,这个环节叫做唠嗑街\N{\fs40}It's a segment we are calling Conversation Street.
+Dialogue: 0,0:31:25.66,0:31:28.70,字幕,,0,0,0,,-额-咋了\N{\fs40}- Well... - What?
+Dialogue: 0,0:31:30.73,0:31:33.03,字幕,,0,0,0,,我们可是在这视频里下了很多功夫\N{\fs40}We put a lot of work into that!
+Dialogue: 0,0:31:33.07,0:31:36.97,字幕,,0,0,0,,这个真是非常非常难做\N{\fs40}It was really, really hard doing that.
+Dialogue: 0,0:31:37.01,0:31:40.41,字幕,,0,0,0,,比这个更超乎天才的想法是\N{\fs40}Better than that, rather brilliantly, we have made
+Dialogue: 0,0:31:40.45,0:31:42.78,字幕,,0,0,0,,我们对三年内的每一集\N{\fs40}a bespoke version of that sting
+Dialogue: 0,0:31:42.81,0:31:44.31,字幕,,0,0,0,,都定制了一套这样的片头\N{\fs40}for every single episode
+Dialogue: 0,0:31:44.31,0:31:46.55,字幕,,0,0,0,,接下来的三年里每集都不一样\N{\fs40}we're gonna make for the next three years.
+Dialogue: 0,0:31:46.58,0:31:48.58,字幕,,0,0,0,,怎么样\N{\fs40}How about that?
+Dialogue: 0,0:31:50.69,0:31:52.92,字幕,,0,0,0,,打断一下 这里有个小问题\N{\fs40}But hold on. The slight problem with that
+Dialogue: 0,0:31:52.96,0:31:54.76,字幕,,0,0,0,,我们之前一直忙着做这片头\N{\fs40}is that we were so busy doing that
+Dialogue: 0,0:31:54.76,0:31:57.73,字幕,,0,0,0,,以至于没想过这个环节里到底唠什么\N{\fs40}we didn't think actually of anything to talk about.
+Dialogue: 0,0:31:57.76,0:31:59.56,字幕,,0,0,0,,-我们想过啊-是啊\N{\fs40}- We did. - Yeah.
+Dialogue: 0,0:31:59.56,0:32:01.76,字幕,,0,0,0,,-啥-你们肯定喜欢\N{\fs40}- What? - You'll love this.
+Dialogue: 0,0:32:01.80,0:32:07.70,字幕,,0,0,0,,詹姆斯 梅 世界上移动速度最慢的人类\N{\fs40}James May, the world's slowest moving human being,
+Dialogue: 0,0:32:07.74,0:32:11.07,字幕,,0,0,0,,居然被抓到超速\N{\fs40}has been caught speeding.
+Dialogue: 0,0:32:13.74,0:32:15.58,字幕,,0,0,0,,真的被警方罚款\N{\fs40}Actually charged by the police.
+Dialogue: 0,0:32:15.58,0:32:18.18,字幕,,0,0,0,,罪犯\N{\fs40}Criminal.
+Dialogue: 0,0:32:18.21,0:32:19.75,字幕,,0,0,0,,其实他对这事挺自豪的\N{\fs40}He's actually quite proud of it.
+Dialogue: 0,0:32:19.75,0:32:23.25,字幕,,0,0,0,,他当时骑着本田CBR 600RR摩托\N{\fs40}He did it on a Honda CBR 600RR sports bike.
+Dialogue: 0,0:32:24.95,0:32:26.95,字幕,,0,0,0,,事实上...\N{\fs40}The thing was...
+Dialogue: 0,0:32:28.66,0:32:31.36,字幕,,0,0,0,,理查德和我大吃一惊\N{\fs40}Richard and I were genuinely astonished.
+Dialogue: 0,0:32:31.40,0:32:33.33,字幕,,0,0,0,,他跑到办公室来说\N{\fs40}He came into the office and said,
+Dialogue: 0,0:32:33.33,0:32:35.20,字幕,,0,0,0,,我超速被抓了\N{\fs40}"I've been done for speeding."
+Dialogue: 0,0:32:35.20,0:32:38.17,字幕,,0,0,0,,直到我们发现他到底开多快\N{\fs40}Until we found out how fast he was going.
+Dialogue: 0,0:32:38.20,0:32:40.60,字幕,,0,0,0,,詹姆斯 当时开多快\N{\fs40}James, how fast was it again?
+Dialogue: 0,0:32:40.64,0:32:43.54,字幕,,0,0,0,,59公里时速\N{\fs40}37 miles an hour.
+Dialogue: 0,0:32:43.58,0:32:46.41,字幕,,0,0,0,,狂人 真是牛逼\N{\fs40}Crazy! Mad man!
+Dialogue: 0,0:32:46.44,0:32:49.50,字幕,,0,0,0,,那么快的速度 你是怎么呼吸的\N{\fs40}How did you even breathe at that kind of speed?
+Dialogue: 0,0:32:49.53,0:32:52.55,字幕,,0,0,0,,警察怎么抓到你的 用腿跑吗\N{\fs40}How did the police catch you? Were they running?
+Dialogue: 0,0:32:53.98,0:32:56.38,字幕,,0,0,0,,肯定是慢跑追上你的\N{\fs40}Gentle jog for sure.
+Dialogue: 0,0:32:56.42,0:32:58.42,字幕,,0,0,0,,要是你也被抓过超速\N{\fs40}The thing is, if you've been caught,
+Dialogue: 0,0:32:58.45,0:33:02.04,字幕,,0,0,0,,我们真不信这世上还有人会这样\N{\fs40}'cause we genuinely don't believe anyone in the world has,
+Dialogue: 0,0:33:02.08,0:33:05.63,字幕,,0,0,0,,但你曾在小于59的时速被抓超速\N{\fs40}but if you've been caught speeding at a speed less than 37,
+Dialogue: 0,0:33:05.66,0:33:08.70,字幕,,0,0,0,,请写信告诉我们\N{\fs40}do honestly please write to us and let us know.
+Dialogue: 0,0:33:08.73,0:33:10.70,字幕,,0,0,0,,因为我们实在是觉得不太可能\N{\fs40}'Cause we don't think it's possible.
+Dialogue: 0,0:33:10.73,0:33:13.22,字幕,,0,0,0,,在你的信封写上 我是乌龟\N{\fs40}And mark your envelope, "I'm a tortoise."
+Dialogue: 0,0:33:13.25,0:33:15.71,字幕,,0,0,0,,这就是本期唠嗑街\N{\fs40}And that is all we have time for this week
+Dialogue: 0,0:33:15.74,0:33:17.14,字幕,,0,0,0,,的全部内容\N{\fs40}on Conversation Street.
+Dialogue: 0,0:33:17.14,0:33:18.51,字幕,,0,0,0,,-等等等等-干啥\N{\fs40}- Whoa! Hang on a minute. - What?
+Dialogue: 0,0:33:18.51,0:33:20.46,字幕,,0,0,0,,这可是第一集 你们俩上来\N{\fs40}The first-ever show, and you just mock me
+Dialogue: 0,0:33:20.46,0:33:22.38,字幕,,0,0,0,,嘲笑一下我的罚单就结束了\N{\fs40}for my speeding ticket and then we move on?
+Dialogue: 0,0:33:22.38,0:33:24.35,字幕,,0,0,0,,这节目时间很紧的\N{\fs40}It's a busy show.
+Dialogue: 0,0:33:24.35,0:33:27.42,字幕,,0,0,0,,时间那么紧 我们得向观众介绍我们的赛道\N{\fs40}It is a busy show. We've got to tell everyone about our track.
+Dialogue: 0,0:33:27.45,0:33:30.45,字幕,,0,0,0,,嗯 我们真有赛道的\N{\fs40}Yes, we have one.
+Dialogue: 0,0:33:30.49,0:33:33.42,字幕,,0,0,0,,这是个你要在街上\N{\fs40}This is the sort of place where you can drive cars
+Dialogue: 0,0:33:33.46,0:33:35.39,字幕,,0,0,0,,也这么开车的话\N{\fs40}at speeds that you can do on the road
+Dialogue: 0,0:33:35.39,0:33:37.99,字幕,,0,0,0,,就会被扔进监狱的地方\N{\fs40}but only if you want to go to prison afterwards.
+Dialogue: 0,0:33:38.03,0:33:39.79,字幕,,0,0,0,,比如开到60\N{\fs40}What, like 38 miles an hour?
+Dialogue: 0,0:33:39.80,0:33:43.46,字幕,,0,0,0,,甚至61 62这样\N{\fs40}39 maybe even, 40 from time to time.
+Dialogue: 0,0:33:43.50,0:33:45.50,字幕,,0,0,0,,本来呢 我们打算着\N{\fs40}Now, we were hoping that we could bring it
+Dialogue: 0,0:33:45.52,0:33:47.50,字幕,,0,0,0,,把赛道和帐篷一起打包带走\N{\fs40}round the world with us like the tent.
+Dialogue: 0,0:33:47.51,0:33:51.24,字幕,,0,0,0,,但可惜 它太沉了\N{\fs40}But unfortunately it's too heavy,
+Dialogue: 0,0:33:51.27,0:33:54.14,字幕,,0,0,0,,而且如你即将所见 特别爱咬人\N{\fs40}and, as you are about to see, too bitey.
+Dialogue: 0,0:33:58.91,0:34:00.92,字幕,,0,0,0,,就是这个\N{\fs40}This is it.
+Dialogue: 0,0:34:00.95,0:34:03.42,字幕,,0,0,0,,这不是赛道\N{\fs40}It's not a race circuit.
+Dialogue: 0,0:34:03.45,0:34:05.89,字幕,,0,0,0,,也不是机场\N{\fs40}It's not an airfield.
+Dialogue: 0,0:34:05.92,0:34:08.39,字幕,,0,0,0,,也不是公路\N{\fs40}It's not a road.
+Dialogue: 0,0:34:08.42,0:34:11.76,字幕,,0,0,0,,它是出色和速度的结合体\N{\fs40}What it is is brilliant and fast.
+Dialogue: 0,0:34:13.00,0:34:15.17,字幕,,0,0,0,,并且及其危险\N{\fs40}And extremely dangerous.
+Dialogue: 0,0:34:16.60,0:34:18.83,字幕,,0,0,0,,地图上看着也危险\N{\fs40}It even looks dangerous on a map.
+Dialogue: 0,0:34:18.87,0:34:22.21,字幕,,0,0,0,,因为你看 这形状跟埃博拉病毒\N{\fs40}Because as you can see, it's the exact same shape
+Dialogue: 0,0:34:22.24,0:34:24.34,字幕,,0,0,0,,一模一样\N{\fs40}as the Ebola virus.
+Dialogue: 0,0:34:26.61,0:34:30.40,字幕,,0,0,0,,现在就带你们看看这赛道什么样\N{\fs40}Right, time now to show you what a lap looks like.
+Dialogue: 0,0:34:30.43,0:34:34.18,字幕,,0,0,0,,为了这 我们选了性能标杆\N{\fs40}To do that we've got a bit of a performance benchmark.
+Dialogue: 0,0:34:34.22,0:34:36.22,字幕,,0,0,0,,法拉利488\N{\fs40}A Ferrari 488.
+Dialogue: 0,0:34:36.24,0:34:38.24,字幕,,0,0,0,,走你\N{\fs40}Take it away.
+Dialogue: 0,0:34:40.22,0:34:42.22,字幕,,0,0,0,,你倒是走啊\N{\fs40}Take it away.
+Dialogue: 0,0:34:44.63,0:34:47.56,字幕,,0,0,0,,首先是 不直道\N{\fs40}First up, it's the Isn't Straight,
+Dialogue: 0,0:34:47.60,0:34:50.47,字幕,,0,0,0,,因为它真的不直\N{\fs40}so called because it isn't straight.
+Dialogue: 0,0:34:50.50,0:34:54.70,字幕,,0,0,0,,极速左弯紧随一个极速右弯\N{\fs40}There is a super-fast left followed by a super-fast right.
+Dialogue: 0,0:34:54.74,0:34:58.91,字幕,,0,0,0,,如果你犯错 这可没有缓冲区或防护挡板\N{\fs40}And if you make a mistake, there's no run-off area or Armco.
+Dialogue: 0,0:34:58.94,0:35:02.18,字幕,,0,0,0,,直接就进树林了\N{\fs40}It's just woods.
+Dialogue: 0,0:35:02.21,0:35:04.21,字幕,,0,0,0,,全是野生动物\N{\fs40}Woods that are full of wildlife
+Dialogue: 0,0:35:04.21,0:35:06.92,字幕,,0,0,0,,喜欢朝你冲过来\N{\fs40}which likes to run out in front of you.
+Dialogue: 0,0:35:09.29,0:35:12.46,字幕,,0,0,0,,过了不直道的第二个右弯\N{\fs40}After the second right on the Isn't Straight,
+Dialogue: 0,0:35:12.49,0:35:15.23,字幕,,0,0,0,,我们就来到了留你名弯\N{\fs40}we're into Your Name Here Corner.
+Dialogue: 0,0:35:16.76,0:35:19.50,字幕,,0,0,0,,各种赞助冠名机会在此\N{\fs40}Sponsorship opportunities are available here.
+Dialogue: 0,0:35:19.53,0:35:21.53,字幕,,0,0,0,,但是我得说明一下\N{\fs40}However, I should explain
+Dialogue: 0,0:35:21.53,0:35:24.63,字幕,,0,0,0,,可能没人会看你的条幅\N{\fs40}that it's possible nobody will be looking at your banner
+Dialogue: 0,0:35:24.67,0:35:27.00,字幕,,0,0,0,,因为这个弯被设计成让车来做...\N{\fs40}because this is a corner that was designed
+Dialogue: 0,0:35:27.04,0:35:29.47,字幕,,0,0,0,,...这事的\N{\fs40}so a car can do this.
+Dialogue: 0,0:35:42.89,0:35:44.15,字幕,,0,0,0,,女士们先生们\N{\fs40}Ladies and gentlemen,
+Dialogue: 0,0:35:44.15,0:35:46.44,字幕,,0,0,0,,詹姆斯 梅 今天并没有来\N{\fs40}James May... isn't here today.
+Dialogue: 0,0:35:46.47,0:35:48.69,字幕,,0,0,0,,这个只是我一个朋友\N{\fs40}That's just a friend of mine
+Dialogue: 0,0:35:48.72,0:35:52.90,字幕,,0,0,0,,在他回到不直道之后...\N{\fs40}on his way back up the Isn't Straight...
+Dialogue: 0,0:35:52.93,0:35:55.27,字幕,,0,0,0,,就到了老奶房弯\N{\fs40}towards Old Lady's House.
+Dialogue: 0,0:35:56.83,0:35:59.50,字幕,,0,0,0,,我们把这叫老奶房\N{\fs40}We've called this section Old Lady's House,
+Dialogue: 0,0:35:59.54,0:36:01.54,字幕,,0,0,0,,就是因为这旁边有个房子\N{\fs40}because it's right next to a house
+Dialogue: 0,0:36:01.57,0:36:04.81,字幕,,0,0,0,,住着一个老奶奶\N{\fs40}where an old lady lives.
+Dialogue: 0,0:36:04.84,0:36:07.86,字幕,,0,0,0,,她跟我们说她喜欢车\N{\fs40}She tells us she likes cars.
+Dialogue: 0,0:36:07.90,0:36:10.85,字幕,,0,0,0,,她说她之前有一辆车\N{\fs40}Says she used to have one.
+Dialogue: 0,0:36:10.88,0:36:13.82,字幕,,0,0,0,,不太确定她在我们这么折腾之后\N{\fs40}Not sure she's going to like them quite so much
+Dialogue: 0,0:36:13.85,0:36:15.85,字幕,,0,0,0,,还会不会喜欢车了\N{\fs40}after we've been here a few times.
+Dialogue: 0,0:36:18.95,0:36:21.82,字幕,,0,0,0,,紧接着就是一个狭窄颠簸的冲刺\N{\fs40}Next up, there's a narrow and bumpy sprint
+Dialogue: 0,0:36:21.86,0:36:24.53,字幕,,0,0,0,,直到变电箱\N{\fs40}to Sub Station.
+Dialogue: 0,0:36:24.56,0:36:26.89,字幕,,0,0,0,,你得处理好这个90度左弯\N{\fs40}You need to get this 90-left right,
+Dialogue: 0,0:36:26.93,0:36:29.93,字幕,,0,0,0,,不然你就栽进全是电的笼子里\N{\fs40}or you'll crash into a cage full of electricity.
+Dialogue: 0,0:36:32.10,0:36:35.41,字幕,,0,0,0,,最后一个90度左弯也得如此\N{\fs40}And you'll need to get the final 90-left right as well,
+Dialogue: 0,0:36:35.44,0:36:37.97,字幕,,0,0,0,,不然就会冲进羊群里\N{\fs40}or you'll run into a field of sheep.
+Dialogue: 0,0:36:41.84,0:36:43.91,字幕,,0,0,0,,那么 树啊 小动物啊\N{\fs40}So, trees, animals,
+Dialogue: 0,0:36:43.95,0:36:45.95,字幕,,0,0,0,,房子啊 电啊\N{\fs40}a house, electricity,
+Dialogue: 0,0:36:45.98,0:36:47.82,字幕,,0,0,0,,而且还是在英国\N{\fs40}and because it's in England,
+Dialogue: 0,0:36:47.82,0:36:49.95,字幕,,0,0,0,,空气一直都很潮\N{\fs40}usually quite a lot of moisture in the air.
+Dialogue: 0,0:36:49.99,0:36:54.39,字幕,,0,0,0,,这真是世界上最危险的赛道\N{\fs40}It really is the most dangerous track anywhere in the world.
+Dialogue: 0,0:36:54.43,0:36:56.43,字幕,,0,0,0,,为了能在这个赛道留下你的记录\N{\fs40}To post a fast time here,
+Dialogue: 0,0:36:56.46,0:37:00.06,字幕,,0,0,0,,你真的要\N{\fs40}you do need...
+Dialogue: 0,0:37:00.10,0:37:02.10,字幕,,0,0,0,,那些\N{\fs40}those.
+Dialogue: 0,0:37:07.80,0:37:10.77,字幕,,0,0,0,,我选择下埃博拉症赛道的车\N{\fs40}The car I've selected for my first lap
+Dialogue: 0,0:37:10.81,0:37:13.41,字幕,,0,0,0,,就是这个\N{\fs40}of the Eboladrome is this.
+Dialogue: 0,0:37:17.01,0:37:19.45,字幕,,0,0,0,,宝马M2\N{\fs40}The BMW M2.
+Dialogue: 0,0:37:33.83,0:37:37.03,字幕,,0,0,0,,难过的是 在我们第一集节目里\N{\fs40}Sadly, there isn't the time in this, our first-ever show,
+Dialogue: 0,0:37:37.07,0:37:40.50,字幕,,0,0,0,,没时间做公路测评了\N{\fs40}to do a full road test of this car,
+Dialogue: 0,0:37:40.54,0:37:44.19,字幕,,0,0,0,,不过我倒是有时间说\N{\fs40}but there is time to say that I think
+Dialogue: 0,0:37:44.23,0:37:47.84,字幕,,0,0,0,,我觉得这是宝马有史以来最棒的M\N{\fs40}this is the best M car BMW has ever made.
+Dialogue: 0,0:38:01.39,0:38:03.39,字幕,,0,0,0,,这年头很多性能车\N{\fs40}In a lot of fast cars these days,
+Dialogue: 0,0:38:03.43,0:38:05.60,字幕,,0,0,0,,都装了各种旋钮 按钮\N{\fs40}you get all sorts of knobs and buttons
+Dialogue: 0,0:38:05.63,0:38:07.66,字幕,,0,0,0,,用来改变-\N{\fs40}which you can use to change-
+Dialogue: 0,0:38:07.70,0:38:09.66,字幕,,0,0,0,,我说改变 其实是毁了\N{\fs40}I say change- I mean ruin
+Dialogue: 0,0:38:09.70,0:38:11.13,字幕,,0,0,0,,引擎 悬挂\N{\fs40}the characteristics of the engine
+Dialogue: 0,0:38:11.13,0:38:13.67,字幕,,0,0,0,,和转向等的个性\N{\fs40}and the suspension and the steering and so on.
+Dialogue: 0,0:38:13.70,0:38:16.21,字幕,,0,0,0,,我一直觉得 这就像个厨子\N{\fs40}And I always think, isn't that like a chef
+Dialogue: 0,0:38:16.24,0:38:18.04,字幕,,0,0,0,,把鱼给你端上桌\N{\fs40}bringing a fish to your table
+Dialogue: 0,0:38:18.04,0:38:20.64,字幕,,0,0,0,,然后放上烤炉 黄油 一点西芹\N{\fs40}and an oven and some butter and a bit of parsley,
+Dialogue: 0,0:38:20.68,0:38:22.85,字幕,,0,0,0,,然后说 你自己做吧 才不要啊\N{\fs40}and saying, "Cook it yourself"? No.
+Dialogue: 0,0:38:22.88,0:38:25.01,字幕,,0,0,0,,你来烧啊 我花钱就为了这个\N{\fs40}You cook it, it's what I'm paying for.
+Dialogue: 0,0:38:26.42,0:38:28.42,字幕,,0,0,0,,可喜的是 这辆车\N{\fs40}This car, happily, has a more
+Dialogue: 0,0:38:28.45,0:38:30.25,字幕,,0,0,0,,更回归本质一些\N{\fs40}back-to-basics approach.
+Dialogue: 0,0:38:30.25,0:38:33.09,字幕,,0,0,0,,M2里面 下面有个小开关\N{\fs40}In the M2 you get a little rocker switch down here
+Dialogue: 0,0:38:33.12,0:38:35.76,字幕,,0,0,0,,完全没有用\N{\fs40}which does nothing at all
+Dialogue: 0,0:38:35.79,0:38:38.86,字幕,,0,0,0,,就我来看 就这么多\N{\fs40}as far as I can see, and that's it.
+Dialogue: 0,0:38:38.89,0:38:41.83,字幕,,0,0,0,,你所买到的车在出厂前\N{\fs40}You're buying a car which was set up at the factory
+Dialogue: 0,0:38:41.87,0:38:45.54,字幕,,0,0,0,,就由那些知道自己该干嘛的工程师设置好了一切\N{\fs40}by engineers who know what they're doing.
+Dialogue: 0,0:38:45.57,0:38:48.07,字幕,,0,0,0,,而你要做的就是好好享受驾驶乐趣\N{\fs40}And all you have to do is enjoy it.
+Dialogue: 0,0:38:50.27,0:38:52.27,字幕,,0,0,0,,就像我现在这样\N{\fs40}Which I am doing.
+Dialogue: 0,0:38:58.05,0:39:00.03,字幕,,0,0,0,,爽啊 看看这个\N{\fs40}Yes, look at this.
+Dialogue: 0,0:39:00.03,0:39:02.03,字幕,,0,0,0,,太喜欢这个了\N{\fs40}Oh, yeah, loving that.
+Dialogue: 0,0:39:03.79,0:39:06.66,字幕,,0,0,0,,我要再做一次 来验证-\N{\fs40}I'll do that again, actually, and make sure-
+Dialogue: 0,0:39:06.69,0:39:08.92,字幕,,0,0,0,,来验证我是对的\N{\fs40}make sure I was correct.
+Dialogue: 0,0:39:16.47,0:39:18.83,字幕,,0,0,0,,几乎就没有什么转向不足\N{\fs40}There's hardly any understeer at all.
+Dialogue: 0,0:39:18.87,0:39:21.20,字幕,,0,0,0,,尾巴甩出去 保持住\N{\fs40}Poke the back out and hold it there.
+Dialogue: 0,0:39:21.24,0:39:24.00,字幕,,0,0,0,,耶\N{\fs40}Yeah!
+Dialogue: 0,0:39:24.04,0:39:25.89,字幕,,0,0,0,,再来一次\N{\fs40}I'll do that again...
+Dialogue: 0,0:39:25.89,0:39:27.68,字幕,,0,0,0,,反过来\N{\fs40}only going the other way.
+Dialogue: 0,0:39:27.68,0:39:29.81,字幕,,0,0,0,,开留你名弯\N{\fs40}Wrong way round Your Name Here.
+Dialogue: 0,0:39:32.62,0:39:37.18,字幕,,0,0,0,,克劳斯和弗瑞茨 我爱你们的作品\N{\fs40}Klaus and Fritz, I am loving your work.
+Dialogue: 0,0:39:37.22,0:39:40.99,字幕,,0,0,0,,哎呀 我搞砸了 但我只要这样\N{\fs40}Oh, I made a mess of that. But I'll just do this,
+Dialogue: 0,0:39:41.03,0:39:43.66,字幕,,0,0,0,,就能让一切看起来像是故意的\N{\fs40}and it'll look like I did it on purpose.
+Dialogue: 0,0:39:45.13,0:39:47.56,字幕,,0,0,0,,随着轮胎不停求饶\N{\fs40}With the tires begging for mercy,
+Dialogue: 0,0:39:47.60,0:39:49.26,字幕,,0,0,0,,我来到了不直道\N{\fs40}I got back onto the Isn't
+Dialogue: 0,0:39:49.26,0:39:53.10,字幕,,0,0,0,,然后把这3.0升直6双涡轮发动机的\N{\fs40}and unleashed 365 rampaging horsepowers
+Dialogue: 0,0:39:53.14,0:39:56.81,字幕,,0,0,0,,365马力狂暴的释放了出来\N{\fs40}from the turbo-charged three-liter straight six.
+Dialogue: 0,0:39:58.54,0:40:01.51,字幕,,0,0,0,,跟M3比 这车直路并不快\N{\fs40}This isn't as fast in a straight line
+Dialogue: 0,0:40:01.55,0:40:04.28,字幕,,0,0,0,,不过除此之外一切...\N{\fs40}as an M3, but everywhere else...
+Dialogue: 0,0:40:04.31,0:40:06.11,字幕,,0,0,0,,都更棒\N{\fs40}it is better.
+Dialogue: 0,0:40:06.12,0:40:09.59,字幕,,0,0,0,,感觉更轻 更灵活\N{\fs40}It feels less heavy, less cumbersome.
+Dialogue: 0,0:40:15.12,0:40:18.66,字幕,,0,0,0,,而且我们这个直道的特性\N{\fs40}And due to the unique characteristics of our straight,
+Dialogue: 0,0:40:18.70,0:40:21.60,字幕,,0,0,0,,我能感觉到转向没那么\N{\fs40}I can tell the steering is less...
+Dialogue: 0,0:40:21.63,0:40:23.97,字幕,,0,0,0,,焦躁\N{\fs40}It's less twitchy.
+Dialogue: 0,0:40:28.64,0:40:32.34,字幕,,0,0,0,,这个赛道就是为了刁难车的\N{\fs40}This track was designed to trip cars up.
+Dialogue: 0,0:40:32.38,0:40:34.51,字幕,,0,0,0,,这里有极速弯\N{\fs40}There are fast corners,
+Dialogue: 0,0:40:34.55,0:40:36.38,字幕,,0,0,0,,慢速弯\N{\fs40}slow corners,
+Dialogue: 0,0:40:36.38,0:40:38.80,字幕,,0,0,0,,漂移弯 还有颠簸\N{\fs40}drifty corners, and bumps.
+Dialogue: 0,0:40:38.83,0:40:41.18,字幕,,0,0,0,,对轮胎\N{\fs40}It's hard on the tires.
+Dialogue: 0,0:40:41.22,0:40:44.82,字幕,,0,0,0,,刹车 引擎都有着极大的考验\N{\fs40}It's hard on the brakes. It's hard on the engine.
+Dialogue: 0,0:40:44.86,0:40:48.59,字幕,,0,0,0,,危机四伏 让你尖叫\N{\fs40}It's point and squirt and bark and yelp.
+Dialogue: 0,0:40:48.63,0:40:50.73,字幕,,0,0,0,,极其凶狠\N{\fs40}It is vicious.
+Dialogue: 0,0:40:53.11,0:40:57.85,字幕,,0,0,0,,但这些都无法难倒M2\N{\fs40}But there is nothing here which has flummoxed the M2.
+Dialogue: 0,0:40:57.89,0:41:01.55,字幕,,0,0,0,,这绝对是惊世之作\N{\fs40}This thing is an absolute masterpiece.
+Dialogue: 0,0:41:04.39,0:41:07.53,字幕,,0,0,0,,像我说的 这是宝马造过\N{\fs40}Like I said, it is the best M car
+Dialogue: 0,0:41:07.56,0:41:09.56,字幕,,0,0,0,,最棒的一辆M了\N{\fs40}BMW has ever made.
+Dialogue: 0,0:41:12.23,0:41:14.72,字幕,,0,0,0,,你可能会觉得我疯了\N{\fs40}You may think it's mad to suggest
+Dialogue: 0,0:41:14.75,0:41:17.20,字幕,,0,0,0,,认为最便宜的M是最好的\N{\fs40}the cheapest M car is the best,
+Dialogue: 0,0:41:17.24,0:41:19.04,字幕,,0,0,0,,但要这样看\N{\fs40}but look at it this way,
+Dialogue: 0,0:41:19.04,0:41:22.11,字幕,,0,0,0,,这个赛道比银石赛道便宜很多\N{\fs40}this track is a lot cheaper than Silverstone.
+Dialogue: 0,0:41:22.14,0:41:25.18,字幕,,0,0,0,,我却知道我已心有所属\N{\fs40}And I know which one I'd rather drive round.
+Dialogue: 0,0:41:37.42,0:41:39.46,字幕,,0,0,0,,去开开M2吧 令人难以置信\N{\fs40}Go drive an M2. Unbelievable.
+Dialogue: 0,0:41:39.49,0:41:42.53,字幕,,0,0,0,,怎么了\N{\fs40}What?
+Dialogue: 0,0:41:42.56,0:41:46.06,字幕,,0,0,0,,老奶奶家那里怎么有连续弯\N{\fs40}Why is there that zigzag at Old Lady's House?
+Dialogue: 0,0:41:46.10,0:41:48.27,字幕,,0,0,0,,我去时不是这样啊 -对 那时是的\N{\fs40}- That wasn't there when I went. - No, that wasn't.
+Dialogue: 0,0:41:48.30,0:41:50.70,字幕,,0,0,0,,但是你走了之后 我们发现\N{\fs40}But after you'd left, we discovered there is
+Dialogue: 0,0:41:50.74,0:41:53.07,字幕,,0,0,0,,那有一颗没爆的二战炸弹 讲真\N{\fs40}an unexploded Second World War bomb, seriously,
+Dialogue: 0,0:41:53.11,0:41:56.91,字幕,,0,0,0,,就在赛道的位置 所以要绕开它\N{\fs40}right where the track was, so we had to go round it.
+Dialogue: 0,0:41:56.94,0:41:59.58,字幕,,0,0,0,,有道理 -我总结下\N{\fs40}- Fair enough. - Let me get this right.
+Dialogue: 0,0:41:59.61,0:42:02.21,字幕,,0,0,0,,在我们的赛道上 有树 动物\N{\fs40}At our track, there's trees, animals,
+Dialogue: 0,0:42:02.25,0:42:04.05,字幕,,0,0,0,,湿气 电气设备\N{\fs40}moisture, electricity,
+Dialogue: 0,0:42:04.05,0:42:06.05,字幕,,0,0,0,,一栋房子 和一个没爆的炸弹\N{\fs40}a house, and an unexploded bomb?
+Dialogue: 0,0:42:06.09,0:42:09.02,字幕,,0,0,0,,没错 像我说的 这是世界上最危险的赛道\N{\fs40}Yeah. Like I said, it's the most dangerous track in the world.
+Dialogue: 0,0:42:09.06,0:42:12.93,字幕,,0,0,0,,说实话 它让埃博拉变得像羽绒被一样 真的\N{\fs40}Honestly, it makes Imola look like a duvet. Honestly.
+Dialogue: 0,0:42:12.96,0:42:16.80,字幕,,0,0,0,,不管怎样 我们在埃博拉症赛道测的每一辆车\N{\fs40}Anyway, all the cars that we test at the Eboladrome
+Dialogue: 0,0:42:16.83,0:42:18.63,字幕,,0,0,0,,都会跑一个计时圈\N{\fs40}will do a timed lap.
+Dialogue: 0,0:42:18.63,0:42:21.20,字幕,,0,0,0,,为了确保条件公平\N{\fs40}And to make sure it's a completely level playing field,
+Dialogue: 0,0:42:21.24,0:42:25.17,字幕,,0,0,0,,它们都会由同一位车手驾驶\N{\fs40}they will all be driven by the same racing driver.
+Dialogue: 0,0:42:25.21,0:42:27.01,字幕,,0,0,0,,哦\N{\fs40}Ooh!
+Dialogue: 0,0:42:27.01,0:42:29.24,字幕,,0,0,0,,我们想到这点了 我们动过脑子了\N{\fs40}We thought about this. We gave it some thought.
+Dialogue: 0,0:42:29.28,0:42:31.28,字幕,,0,0,0,,我们多机智  现在\N{\fs40}How clever is that? Now...
+Dialogue: 0,0:42:32.61,0:42:34.95,字幕,,0,0,0,,问题是 亚马逊坚持\N{\fs40}The thing is, Amazon insisted
+Dialogue: 0,0:42:34.98,0:42:36.85,字幕,,0,0,0,,我们要选的车手\N{\fs40}that the racing driver in question
+Dialogue: 0,0:42:36.85,0:42:39.79,字幕,,0,0,0,,必须是大洋这边的人\N{\fs40}should be from this side of the pond.
+Dialogue: 0,0:42:39.82,0:42:42.69,字幕,,0,0,0,,所以我们去了一个叫纳斯卡的地方\N{\fs40}So we went to something called NASCAR?
+Dialogue: 0,0:42:42.72,0:42:45.32,字幕,,0,0,0,,找了一个 把他运到英国\N{\fs40}And we found one. We shipped him to England
+Dialogue: 0,0:42:45.36,0:42:48.63,字幕,,0,0,0,,然后教给他一套复杂的动作\N{\fs40}and then we introduced him to the complicated procedure
+Dialogue: 0,0:42:48.66,0:42:51.28,字幕,,0,0,0,,其中包括 向右转弯\N{\fs40}which involves turning right.
+Dialogue: 0,0:42:51.32,0:42:53.86,字幕,,0,0,0,,他叫麦克 斯吉那\N{\fs40}He's called Mike Skinner,
+Dialogue: 0,0:42:53.90,0:42:56.50,字幕,,0,0,0,,但我们只管他叫 老美\N{\fs40}but we know him simply as "the American."
+Dialogue: 0,0:42:56.54,0:42:58.20,字幕,,0,0,0,,需要提醒你的是\N{\fs40}We should warn you
+Dialogue: 0,0:42:58.20,0:43:01.14,字幕,,0,0,0,,他有些观点十分强硬\N{\fs40}that some of his views are quite strong.
+Dialogue: 0,0:43:01.17,0:43:03.84,字幕,,0,0,0,,是的 他的观点非常明确 比如\N{\fs40}Yes, he has very specific views, for example,
+Dialogue: 0,0:43:03.88,0:43:06.28,字幕,,0,0,0,,气缸数少于8个的车\N{\fs40}on cars that have engines with fewer than eight cylinders.
+Dialogue: 0,0:43:06.31,0:43:08.45,字幕,,0,0,0,,我党 -或多于8缸的车\N{\fs40}- Communist. - Or more than eight cylinders.
+Dialogue: 0,0:43:08.48,0:43:11.72,字幕,,0,0,0,,发动机在中间的车\N{\fs40}- Communist. - Or cars that have their engine in the middle.
+Dialogue: 0,0:43:11.75,0:43:13.72,字幕,,0,0,0,,我党\N{\fs40}Communist.
+Dialogue: 0,0:43:13.72,0:43:16.82,字幕,,0,0,0,,一切非美式V8的都是我党\N{\fs40}Everything that isn't American really with a V8 is communist.
+Dialogue: 0,0:43:16.86,0:43:19.89,字幕,,0,0,0,,所以让我们看看他和M2相处如何\N{\fs40}So let's see how he gets on with the M2.
+Dialogue: 0,0:43:19.93,0:43:21.89,字幕,,0,0,0,,他就在这了\N{\fs40}There he is.
+Dialogue: 0,0:43:21.93,0:43:24.26,字幕,,0,0,0,,不知所措 东张西望\N{\fs40}Looking utterly bewildered.
+Dialogue: 0,0:43:26.00,0:43:29.27,字幕,,0,0,0,,但是他出发了 稍稍打滑\N{\fs40}But he's off. A skitter of a wheel spin.
+Dialogue: 0,0:43:29.30,0:43:31.70,字幕,,0,0,0,,立马进入不直道\N{\fs40}And immediately he's onto the Isn't Straight.
+Dialogue: 0,0:43:31.74,0:43:34.21,字幕,,0,0,0,,这有个让他困扰的右弯\N{\fs40}There is a right there that will have confused him.
+Dialogue: 0,0:43:34.24,0:43:35.78,字幕,,0,0,0,,接着左弯 他应该很擅长\N{\fs40}Now a left, he'll be good at that.
+Dialogue: 0,0:43:35.78,0:43:38.51,字幕,,0,0,0,,可以油门全开了\N{\fs40}Now he can open the taps.
+Dialogue: 0,0:43:38.55,0:43:41.21,字幕,,0,0,0,,3.0升 6缸\N{\fs40}Three liters, six cylinders.
+Dialogue: 0,0:43:41.25,0:43:42.98,字幕,,0,0,0,,这东西连狗屁股里的油绳\N{\fs40}This thing wouldn't pull a greasy string
+Dialogue: 0,0:43:42.98,0:43:44.85,字幕,,0,0,0,,都拔不出来\N{\fs40}out of a dog's ass.
+Dialogue: 0,0:43:44.85,0:43:49.72,字幕,,0,0,0,,我完全不明白他在说什么\N{\fs40}I've literally no idea what he's talking about.
+Dialogue: 0,0:43:49.76,0:43:52.46,字幕,,0,0,0,,在我的家乡 这不是一辆车\N{\fs40}Where I come from, this ain't a car.
+Dialogue: 0,0:43:52.49,0:43:54.69,字幕,,0,0,0,,这是求助的哭喊\N{\fs40}It's a cry for help.
+Dialogue: 0,0:43:54.73,0:43:56.53,字幕,,0,0,0,,管他吧\N{\fs40}Whatever.
+Dialogue: 0,0:43:56.53,0:43:58.90,字幕,,0,0,0,,开过了不直道的最后一个弯\N{\fs40}He's through the final corner on the Isn't Straight.
+Dialogue: 0,0:43:58.93,0:44:01.70,字幕,,0,0,0,,进入留你名弯 大力刹车\N{\fs40}Into Your Name Here. Hard on the brakes.
+Dialogue: 0,0:44:01.74,0:44:03.70,字幕,,0,0,0,,紧握换挡杆\N{\fs40}Grabbing the stick,
+Dialogue: 0,0:44:03.70,0:44:05.71,字幕,,0,0,0,,当然挡杆现在在他左边了\N{\fs40}which is on the left-hand side of where he's sitting,
+Dialogue: 0,0:44:05.74,0:44:07.17,字幕,,0,0,0,,然后入弯\N{\fs40}and turning in.
+Dialogue: 0,0:44:07.17,0:44:09.32,字幕,,0,0,0,,看到没 完全没有转向不足\N{\fs40}See what I mean? No understeer at all.
+Dialogue: 0,0:44:09.36,0:44:11.44,字幕,,0,0,0,,这破赛道比我家的车道还窄\N{\fs40}Damn tracks are narrower than my driveway.
+Dialogue: 0,0:44:11.48,0:44:14.28,字幕,,0,0,0,,那是因为你家车道上停着台怪物卡车\N{\fs40}Yeah, that's 'cause it doesn't have a monster truck on it.
+Dialogue: 0,0:44:14.31,0:44:18.12,字幕,,0,0,0,,真想知道谁把这玩意搞出来的\N{\fs40}Wonder which one of them came up with this thing.
+Dialogue: 0,0:44:18.15,0:44:21.35,字幕,,0,0,0,,那个高个子 小矮子 还是留着娘娘腔头发的\N{\fs40}The tall one? The short one? Or the one with the girly hair?
+Dialogue: 0,0:44:21.39,0:44:24.56,字幕,,0,0,0,,好的 到了老奶房弯\N{\fs40}Okay, coming up to Old Lady's House.
+Dialogue: 0,0:44:24.59,0:44:26.02,字幕,,0,0,0,,大脚刹车\N{\fs40}Hard on the brakes.
+Dialogue: 0,0:44:26.03,0:44:28.93,字幕,,0,0,0,,转过弯 绕过没爆的炸弹\N{\fs40}Turning in, round the unexploded bomb,
+Dialogue: 0,0:44:28.96,0:44:31.56,字幕,,0,0,0,,又可以冲刺了\N{\fs40}and now opening the taps again.
+Dialogue: 0,0:44:31.60,0:44:34.06,字幕,,0,0,0,,完全没有涡轮迟滞\N{\fs40}No turbo lag at all,
+Dialogue: 0,0:44:34.10,0:44:36.50,字幕,,0,0,0,,冲过了颠簸的小直道\N{\fs40}as he hammers down the bumpy back straight
+Dialogue: 0,0:44:36.54,0:44:38.39,字幕,,0,0,0,,前往配电站\N{\fs40}towards Sub Station.
+Dialogue: 0,0:44:38.39,0:44:40.17,字幕,,0,0,0,,这是个直角弯\N{\fs40}This is a 90-left,
+Dialogue: 0,0:44:40.17,0:44:42.04,字幕,,0,0,0,,新铺的柏油 但抓地力不错\N{\fs40}new Tarmac but it held it well.
+Dialogue: 0,0:44:42.04,0:44:45.11,字幕,,0,0,0,,绵羊坡上还有个直角弯\N{\fs40}One more 90-left to go through Field Of Sheep.
+Dialogue: 0,0:44:45.15,0:44:48.18,字幕,,0,0,0,,漂亮的过弯 冲线\N{\fs40}And he's done it well. And across the line.
+Dialogue: 0,0:44:51.95,0:44:54.62,字幕,,0,0,0,,处女秀 真的很不错\N{\fs40}First one. That's good.
+Dialogue: 0,0:44:54.65,0:44:56.19,字幕,,0,0,0,,他很优秀\N{\fs40}He's great.
+Dialogue: 0,0:44:56.19,0:44:59.16,字幕,,0,0,0,,他既会左转也会右转 真厉害\N{\fs40}He's great going left and right. Amazing.
+Dialogue: 0,0:44:59.19,0:45:01.03,字幕,,0,0,0,,为了避免这辆M2\N{\fs40}To make sure that the M2-
+Dialogue: 0,0:45:01.03,0:45:03.93,字幕,,0,0,0,,在圈速榜上孤单一人\N{\fs40}that wasn't on the lap board all by itself,
+Dialogue: 0,0:45:03.96,0:45:06.96,字幕,,0,0,0,,我们把这个美国人扔进了其他标杆车里\N{\fs40}we got the American to put other benchmark cars-
+Dialogue: 0,0:45:07.00,0:45:11.14,字幕,,0,0,0,,我们叫标杆车型 他叫我党车型\N{\fs40}we call them benchmark cars, he calls them communist-
+Dialogue: 0,0:45:11.17,0:45:13.17,字幕,,0,0,0,,来跑几圈 看看他们到底几斤几两\N{\fs40}around the track, to see what's what.
+Dialogue: 0,0:45:13.21,0:45:15.11,字幕,,0,0,0,,有迈凯伦 奥迪 等等\N{\fs40}McLaren, Audi and so forth.
+Dialogue: 0,0:45:15.11,0:45:16.98,字幕,,0,0,0,,等下 我在之前片子里\N{\fs40}Hang on a minute. We saw a Ferrari 488
+Dialogue: 0,0:45:16.98,0:45:18.81,字幕,,0,0,0,,看到了法拉利488\N{\fs40}at the track in the film earlier on.
+Dialogue: 0,0:45:18.81,0:45:20.01,字幕,,0,0,0,,为什么它没上榜\N{\fs40}Why isn't that on there?
+Dialogue: 0,0:45:20.01,0:45:22.18,字幕,,0,0,0,,因为法拉利不让我们测圈速\N{\fs40}Because Ferrari wouldn't let us time it.
+Dialogue: 0,0:45:22.22,0:45:24.08,字幕,,0,0,0,,-不让测  -不让\N{\fs40}- Wouldn't let us? - No.
+Dialogue: 0,0:45:24.08,0:45:26.79,字幕,,0,0,0,,所以说 法拉利拉法不能上路\N{\fs40}So the Ferrari LaFerrari can't go on the road
+Dialogue: 0,0:45:26.82,0:45:28.97,字幕,,0,0,0,,-没有纯电模式 -是的\N{\fs40}- or run on electric only? - No.
+Dialogue: 0,0:45:29.01,0:45:31.09,字幕,,0,0,0,,然后488还不能来测圈速\N{\fs40}And the 488 can't do a timed lap?
+Dialogue: 0,0:45:31.12,0:45:34.01,字幕,,0,0,0,,法拉利那边总是很难交涉\N{\fs40}Ferrari are quite tricky to deal with from time to time.
+Dialogue: 0,0:45:34.04,0:45:36.90,字幕,,0,0,0,,我们别去管他了 来看看\N{\fs40}Let's just put it that way and move on. It's time to see
+Dialogue: 0,0:45:36.93,0:45:39.50,字幕,,0,0,0,,M2在榜上能排在哪\N{\fs40}where the M2 goes on that board.
+Dialogue: 0,0:45:39.53,0:45:42.07,字幕,,0,0,0,,拭目以待 把圈速放上来\N{\fs40}Let's have a look. Let's put it on.
+Dialogue: 0,0:45:42.10,0:45:44.30,字幕,,0,0,0,,-噢 -哈哈\N{\fs40}- Oh! - Ha-ha!
+Dialogue: 0,0:45:44.34,0:45:45.97,字幕,,0,0,0,,哇 哇\N{\fs40}Wow! Wow!
+Dialogue: 0,0:45:45.97,0:45:49.81,字幕,,0,0,0,,我觉得这是他们造过最好的M\N{\fs40}"I think it's the best M car they've ever made."
+Dialogue: 0,0:45:51.44,0:45:53.48,字幕,,0,0,0,,这可不是我说的\N{\fs40}Not my words.
+Dialogue: 0,0:45:53.51,0:45:55.85,字幕,,0,0,0,,虽然这车最慢 我却独钟情于它\N{\fs40}"I prefer it to all the others that are quicker than it."
+Dialogue: 0,0:45:55.88,0:45:58.78,字幕,,0,0,0,,-是 但这只是 -这车是最佳选择\N{\fs40}- Yes, it's- - The one you should have,
+Dialogue: 0,0:45:58.82,0:46:01.09,字幕,,0,0,0,,如果你想要一辆最慢的M系的话\N{\fs40}if you want one that's slower than all the other M cars.
+Dialogue: 0,0:46:01.12,0:46:03.76,字幕,,0,0,0,,没这么惨 仅仅慢了两秒-\N{\fs40}It's better. It's only two seconds-
+Dialogue: 0,0:46:03.79,0:46:06.39,字幕,,0,0,0,,-至少比思域快 -确实\N{\fs40}- It's quicker than a Civic. - Yeah.
+Dialogue: 0,0:46:06.43,0:46:08.03,字幕,,0,0,0,,但它还是慢过\N{\fs40}But it's slower than-
+Dialogue: 0,0:46:08.03,0:46:09.83,字幕,,0,0,0,,如果你把M车型列出来 选一辆车\N{\fs40}If you had a choice of M cars, lined them up,
+Dialogue: 0,0:46:09.83,0:46:12.30,字幕,,0,0,0,,然后说 我想要最快的 那绝对不是这辆了\N{\fs40}and said, "I'd like the fastest", it wouldn't be that one.
+Dialogue: 0,0:46:12.33,0:46:15.70,字幕,,0,0,0,,-闭嘴 -在每一点上都更好\N{\fs40}- Shut up. - Better in every single way?
+Dialogue: 0,0:46:15.73,0:46:18.20,字幕,,0,0,0,,-那是你说的 -我不管 你开过M2吗\N{\fs40}- You said that. - I don't care. Have you driven one?
+Dialogue: 0,0:46:18.24,0:46:21.14,字幕,,0,0,0,,-开过-简直是惊世骇俗\N{\fs40}- I have. - It's fabulous.
+Dialogue: 0,0:46:21.17,0:46:23.81,字幕,,0,0,0,,这真是辆好车 真的是\N{\fs40}It's a brilliant car. It really honestly is.
+Dialogue: 0,0:46:23.84,0:46:26.96,字幕,,0,0,0,,可惜 我们不能带着赛道环游世界\N{\fs40}It's a shame we can't take the track round the world with us.
+Dialogue: 0,0:46:27.00,0:46:30.08,字幕,,0,0,0,,真要这样 我们就能邀请明星来开\N{\fs40}Because if we did, we could invite celebrities to drive round it
+Dialogue: 0,0:46:30.12,0:46:32.12,字幕,,0,0,0,,还能弄个圈速榜\N{\fs40}and we could keep a score sheet
+Dialogue: 0,0:46:32.15,0:46:34.35,字幕,,0,0,0,,看看谁最快\N{\fs40}of who was the fastest.
+Dialogue: 0,0:46:36.39,0:46:38.02,字幕,,0,0,0,,我不喜欢这主意\N{\fs40}No, I don't like it!
+Dialogue: 0,0:46:38.02,0:46:39.59,字幕,,0,0,0,,我也不喜欢\N{\fs40}I don't like it, no.
+Dialogue: 0,0:46:39.59,0:46:42.34,字幕,,0,0,0,,我不信它能火啊 -没人爱看这个\N{\fs40}- I don't think it would work. - Nobody wants to watch that.
+Dialogue: 0,0:46:42.38,0:46:45.10,字幕,,0,0,0,,真不信 不管怎么样 我有更好的主意\N{\fs40}I'm not sure that they do. Anyway, we've got a better idea,
+Dialogue: 0,0:46:45.13,0:46:47.10,字幕,,0,0,0,,我们的明星环节\N{\fs40}Okay, for our celebrities.
+Dialogue: 0,0:46:47.13,0:46:49.83,字幕,,0,0,0,,就叫它 明星脑碰脑\N{\fs40}We're calling it Celebrity Brain Crash,
+Dialogue: 0,0:46:49.87,0:46:52.54,字幕,,0,0,0,,我们也做了个小片头\N{\fs40}and we had a sting made for that as well.
+Dialogue: 0,0:46:59.98,0:47:02.98,字幕,,0,0,0,,太糟糕了\N{\fs40}That is terrible.
+Dialogue: 0,0:47:03.02,0:47:05.25,字幕,,0,0,0,,我不想用这个\N{\fs40}I don't like to use this...
+Dialogue: 0,0:47:08.55,0:47:10.89,字幕,,0,0,0,,实在太糟了\N{\fs40}It's just terrible.
+Dialogue: 0,0:47:10.92,0:47:14.89,字幕,,0,0,0,,谁会说 我要去看亚马逊的新汽车节目\N{\fs40}Who is gonna say, "I'm gonna watch that new Amazon car show.
+Dialogue: 0,0:47:14.93,0:47:17.59,字幕,,0,0,0,,里面亨利八世的脑袋炸了\N{\fs40}Henry VIII's head explodes"?
+Dialogue: 0,0:47:17.63,0:47:21.10,字幕,,0,0,0,,为什么布拉德皮特的头在冒烟\N{\fs40}Why is there smoke coming out of Brad Pitt's head?
+Dialogue: 0,0:47:21.14,0:47:23.60,字幕,,0,0,0,,这是想表达什么\N{\fs40}What are we trying to say?
+Dialogue: 0,0:47:23.64,0:47:25.64,字幕,,0,0,0,,不 我们不是 -我们不是这意思\N{\fs40}- No, we're not. - No, we're not saying that.
+Dialogue: 0,0:47:26.91,0:47:28.81,字幕,,0,0,0,,不是这个意思\N{\fs40}Not that.
+Dialogue: 0,0:47:28.81,0:47:30.64,字幕,,0,0,0,,这个片头糟透了\N{\fs40}That is a terrible sting,
+Dialogue: 0,0:47:30.64,0:47:33.66,字幕,,0,0,0,,但这仪器真不错\N{\fs40}but the machine itself isn't terrible at all.
+Dialogue: 0,0:47:33.70,0:47:36.68,字幕,,0,0,0,,这是用来测量人体灵活度\N{\fs40}It's used to measure somebody's mental agility,
+Dialogue: 0,0:47:36.72,0:47:38.52,字幕,,0,0,0,,观测能力\N{\fs40}their observational skills
+Dialogue: 0,0:47:38.52,0:47:40.87,字幕,,0,0,0,,以及多线程操作能力\N{\fs40}and their ability to multi-task.
+Dialogue: 0,0:47:40.90,0:47:43.08,字幕,,0,0,0,,实际上它是基于\N{\fs40}It's actually based on a machine
+Dialogue: 0,0:47:43.12,0:47:45.20,字幕,,0,0,0,,给要加入皇家空军\N{\fs40}that's used to test fighter pilots
+Dialogue: 0,0:47:45.24,0:47:47.26,字幕,,0,0,0,,战斗机飞行员测试的仪器\N{\fs40}who want to join the Royal Air Force
+Dialogue: 0,0:47:47.29,0:47:50.20,字幕,,0,0,0,,我们都知道 这是全世界\N{\fs40}which, as we all know, is the finest and greatest air force
+Dialogue: 0,0:47:50.23,0:47:53.46,字幕,,0,0,0,,最好的空军了\N{\fs40}in the world.
+Dialogue: 0,0:47:53.50,0:47:57.10,字幕,,0,0,0,,你们这喝倒彩什么意思\N{\fs40}What do you mean, "Boo"? What do you mean, "Boo"? What?
+Dialogue: 0,0:47:57.14,0:48:00.11,字幕,,0,0,0,,要是这样 你们每次出状况为什么还要我们帮忙\N{\fs40}If that was true, we wouldn't have to help you every time you get in trouble.
+Dialogue: 0,0:48:08.78,0:48:10.61,字幕,,0,0,0,,我先坐下忍着\N{\fs40}I'll hold myself back here.
+Dialogue: 0,0:48:10.62,0:48:14.39,字幕,,0,0,0,,等等 你们怎么抱怨都行\N{\fs40}Now, hold on. You lot can grumble as much as you like,
+Dialogue: 0,0:48:14.42,0:48:17.39,字幕,,0,0,0,,反正这节目是由我们英国人来剪辑\N{\fs40}but we edit this show and we're British,
+Dialogue: 0,0:48:17.42,0:48:19.99,字幕,,0,0,0,,所以这肯定会被切的\N{\fs40}so you'll just get cut out.
+Dialogue: 0,0:48:20.03,0:48:22.53,字幕,,0,0,0,,我们都同意\N{\fs40}We're all in agreement.
+Dialogue: 0,0:48:22.56,0:48:26.77,字幕,,0,0,0,,皇家空军就是比美国空军好\N{\fs40}That the Royal Air Force is better than the US Air Force.
+Dialogue: 0,0:48:26.80,0:48:30.37,字幕,,0,0,0,,美利坚 美利坚 美利坚\N{\fs40}USA! USA! USA!
+Dialogue: 0,0:48:30.40,0:48:32.77,字幕,,0,0,0,,我们都同意\N{\fs40}We're all in agreement
+Dialogue: 0,0:48:32.80,0:48:36.48,字幕,,0,0,0,,皇家空军就是比美国空军好\N{\fs40}the Royal Air Force is better than all the other air forces in the world.
+Dialogue: 0,0:48:39.41,0:48:41.46,字幕,,0,0,0,,我们现在都同意\N{\fs40}We're all now in agreement.
+Dialogue: 0,0:48:41.50,0:48:43.50,字幕,,0,0,0,,皇家空军是\N{\fs40}The Royal Air Force is-
+Dialogue: 0,0:48:43.52,0:48:45.52,字幕,,0,0,0,,世界上最棒的\N{\fs40}is the best air force in the world.
+Dialogue: 0,0:48:47.59,0:48:51.06,字幕,,0,0,0,,我们都同意 皇家空军还是比较厉害的\N{\fs40}So we're all in agreement the Royal Air Force is quite good.
+Dialogue: 0,0:48:51.09,0:48:53.96,字幕,,0,0,0,,差不多就行了\N{\fs40}That will do. That will do.
+Dialogue: 0,0:48:53.99,0:48:57.70,字幕,,0,0,0,,我们回到明星脑碰脑\N{\fs40}So let's get back to Celebrity Brain Crash
+Dialogue: 0,0:48:57.73,0:48:59.67,字幕,,0,0,0,,看看我们第一位嘉宾\N{\fs40}and meet our first-ever guest.
+Dialogue: 0,0:48:59.67,0:49:01.47,字幕,,0,0,0,,在其他节目里\N{\fs40}Normally on other shows,
+Dialogue: 0,0:49:01.47,0:49:04.14,字幕,,0,0,0,,嘉宾一般都会从亮闪闪的幕布里走出\N{\fs40}the guest will come through a sparkly curtain,
+Dialogue: 0,0:49:04.17,0:49:07.39,字幕,,0,0,0,,挥手致意 然后坐下 这里不一样\N{\fs40}wave a bit and then sit down, but not here.
+Dialogue: 0,0:49:07.42,0:49:10.58,字幕,,0,0,0,,没错 我们的嘉宾入场可正式了\N{\fs40}Oh, yes, our guests make a proper arrival.
+Dialogue: 0,0:49:10.62,0:49:13.75,字幕,,0,0,0,,这样 有请今晚的嘉宾\N{\fs40}And on that note, let's meet tonight's star.
+Dialogue: 0,0:49:13.78,0:49:16.38,字幕,,0,0,0,,他几乎参演了所有的\N{\fs40}He has been in pretty much
+Dialogue: 0,0:49:16.42,0:49:19.25,字幕,,0,0,0,,热门电影\N{\fs40}every single movie franchise there is
+Dialogue: 0,0:49:19.29,0:49:21.29,字幕,,0,0,0,,除了单身日记\N{\fs40}apart from Bridget Jones.
+Dialogue: 0,0:49:21.32,0:49:23.32,字幕,,0,0,0,,他就是主演啊\N{\fs40}No, he was Bridget Jones.
+Dialogue: 0,0:49:23.32,0:49:25.52,字幕,,0,0,0,,是么 -不\N{\fs40}- Was he? - No.
+Dialogue: 0,0:49:25.56,0:49:28.49,字幕,,0,0,0,,不过没关系 他参演过谍影重重\N{\fs40}But it doesn't matter. He was in the Bourne films.
+Dialogue: 0,0:49:28.53,0:49:30.23,字幕,,0,0,0,,还演过碟中谍\N{\fs40}He was in the Mission Impossible films,
+Dialogue: 0,0:49:30.23,0:49:31.56,字幕,,0,0,0,,还有复仇者联盟\N{\fs40}the Avengers films,
+Dialogue: 0,0:49:31.56,0:49:34.63,字幕,,0,0,0,,现在 他在我们头顶3000米的高空盘旋\N{\fs40}and right now he is 10.000 feet above us,
+Dialogue: 0,0:49:34.67,0:49:37.42,字幕,,0,0,0,,等着进行华丽的入场\N{\fs40}waiting to make one hell of an entrance.
+Dialogue: 0,0:49:37.45,0:49:40.17,字幕,,0,0,0,,女士们先生们 杰瑞米 雷纳\N{\fs40}Ladies and gentlemen, Jeremy Renner!
+Dialogue: 0,0:49:42.44,0:49:46.05,字幕,,0,0,0,,他在那 就这架飞机\N{\fs40}There he is. There he is, that's his plane.
+Dialogue: 0,0:49:51.38,0:49:53.39,字幕,,0,0,0,,他来了\N{\fs40}Hold on, everybody. Here he comes.
+Dialogue: 0,0:49:53.42,0:49:56.12,字幕,,0,0,0,,他准备跳了\N{\fs40}He is ready to jump.
+Dialogue: 0,0:49:56.16,0:49:57.82,字幕,,0,0,0,,准备好了\N{\fs40}I'm ready!
+Dialogue: 0,0:49:57.82,0:50:01.06,字幕,,0,0,0,,他准备跳了 他来了\N{\fs40}He is ready to jump. And there he goes!
+Dialogue: 0,0:50:01.10,0:50:02.59,字幕,,0,0,0,,能看他自己做特技\N{\fs40}That is amazing
+Dialogue: 0,0:50:02.59,0:50:04.40,字幕,,0,0,0,,简直神奇啊\N{\fs40}to see him doing his own stunts.
+Dialogue: 0,0:50:04.40,0:50:07.93,字幕,,0,0,0,,没错 而且他看上去真帅\N{\fs40}Yeah, I know. And he is looking good!
+Dialogue: 0,0:50:07.97,0:50:09.97,字幕,,0,0,0,,等他到了\N{\fs40}When he gets here,
+Dialogue: 0,0:50:10.00,0:50:12.70,字幕,,0,0,0,,我想和他聊聊谍影重重4\N{\fs40}I do want to talk to him about that Bourne Legacy film.
+Dialogue: 0,0:50:12.74,0:50:15.44,字幕,,0,0,0,,一是 揍肖恩 雅克博森什么感觉\N{\fs40}what it was like to punch Shane Jacobson.
+Dialogue: 0,0:50:15.48,0:50:18.48,字幕,,0,0,0,,二是 等等\N{\fs40}And, B... Ooh, hang on.
+Dialogue: 0,0:50:18.51,0:50:21.75,字幕,,0,0,0,,他开伞好晚啊\N{\fs40}He's leaving this terribly late.
+Dialogue: 0,0:50:40.40,0:50:43.53,字幕,,0,0,0,,好吧\N{\fs40}Right.
+Dialogue: 0,0:50:43.57,0:50:45.87,字幕,,0,0,0,,这是不是就意味着他来不了了\N{\fs40}Does that mean he's not coming on, then?
+Dialogue: 0,0:50:45.91,0:50:48.77,字幕,,0,0,0,,是的 詹姆斯 他来不了了\N{\fs40}No, James, he's not.
+Dialogue: 0,0:50:48.81,0:50:52.11,字幕,,0,0,0,,没关系 我们已经预料到有类似的情况了\N{\fs40}It's okay, though. We anticipated this sort of thing,
+Dialogue: 0,0:50:52.15,0:50:54.15,字幕,,0,0,0,,我们有一个替补嘉宾\N{\fs40}so we got a back-up guest ready.
+Dialogue: 0,0:50:54.18,0:50:56.15,字幕,,0,0,0,,额\N{\fs40}Uh...
+Dialogue: 0,0:50:56.18,0:50:58.52,字幕,,0,0,0,,他出演过秘密特工\N{\fs40}He was in Man From Uncle.
+Dialogue: 0,0:50:58.55,0:51:01.99,字幕,,0,0,0,,出演过独行侠\N{\fs40}He was in Lone Ranger. He was both twins
+Dialogue: 0,0:51:02.02,0:51:03.75,字幕,,0,0,0,,在社交网络里同时扮演了双胞胎\N{\fs40}in The Social Network.
+Dialogue: 0,0:51:03.76,0:51:06.53,字幕,,0,0,0,,他最新出演的电影叫做夜行动物\N{\fs40}And his new film is called Nocturnal Animals.
+Dialogue: 0,0:51:06.56,0:51:08.56,字幕,,0,0,0,,很抱歉我们没有时间\N{\fs40}We haven't had time, unfortunately,
+Dialogue: 0,0:51:08.56,0:51:10.49,字幕,,0,0,0,,来安排一个戏剧性的入场\N{\fs40}to organize a dramatic entrance,
+Dialogue: 0,0:51:10.50,0:51:13.33,字幕,,0,0,0,,但我希望各位还是欢迎他的到来\N{\fs40}but I hope you'll give him a warm welcome nevertheless.
+Dialogue: 0,0:51:13.37,0:51:15.73,字幕,,0,0,0,,女士们先生们 有请 艾米 汉莫\N{\fs40}Ladies and gentlemen, Armie Hammer!
+Dialogue: 0,0:51:16.97,0:51:18.97,字幕,,0,0,0,,他那里\N{\fs40}There he is.
+Dialogue: 0,0:51:19.94,0:51:21.84,字幕,,0,0,0,,哦 我的\N{\fs40}Oh, my...
+Dialogue: 0,0:51:21.84,0:51:23.67,字幕,,0,0,0,,天啊\N{\fs40}Jesus!
+Dialogue: 0,0:51:23.68,0:51:25.48,字幕,,0,0,0,,那是一条蛇么\N{\fs40}Is that a snake?
+Dialogue: 0,0:51:25.48,0:51:27.41,字幕,,0,0,0,,是的— 是条响尾蛇\N{\fs40}- It's a snake. - That's a rattlesnake.
+Dialogue: 0,0:51:27.41,0:51:29.38,字幕,,0,0,0,,真的— 是啊\N{\fs40}- Is it? - Yeah.
+Dialogue: 0,0:51:29.38,0:51:32.28,字幕,,0,0,0,,他在垂死挣扎 各位 请安静\N{\fs40}He's being killed. Quiet, everyone.
+Dialogue: 0,0:51:32.32,0:51:34.28,字幕,,0,0,0,,请安静一下\N{\fs40}Quiet, please.
+Dialogue: 0,0:51:34.32,0:51:36.36,字幕,,0,0,0,,我们真的什么都做不了\N{\fs40}There's literally nothing we can do.
+Dialogue: 0,0:51:36.39,0:51:38.36,字幕,,0,0,0,,他就离我们也不远\N{\fs40}He's yards away from us.
+Dialogue: 0,0:51:38.39,0:51:40.06,字幕,,0,0,0,,但毒蛇是一群一群的\N{\fs40}Snakes are like herds of them.
+Dialogue: 0,0:51:40.06,0:51:42.76,字幕,,0,0,0,,他们群体打猎 -他们是群居动物\N{\fs40}- They hunt in packs. - Yeah, they're pack animals.
+Dialogue: 0,0:51:42.80,0:51:45.50,字幕,,0,0,0,,这是不是说 他也进不来了\N{\fs40}Does that mean he's not coming on either?
+Dialogue: 0,0:51:45.53,0:51:48.80,字幕,,0,0,0,,是的 詹姆斯 他在痛苦的抽搐中死去\N{\fs40}No, James, he's finished writhing around in agony.
+Dialogue: 0,0:51:48.84,0:51:50.85,字幕,,0,0,0,,现在他死翘翘了\N{\fs40}And now he's dead.
+Dialogue: 0,0:51:50.89,0:51:52.89,字幕,,0,0,0,,所以他也进不来了\N{\fs40}So that is a no.
+Dialogue: 0,0:51:52.91,0:51:54.71,字幕,,0,0,0,,好吧 额\N{\fs40}Well, uh...
+Dialogue: 0,0:51:54.71,0:51:57.28,字幕,,0,0,0,,也许我们的观众里有一些名人呢\N{\fs40}maybe there's somebody famous in the audience.
+Dialogue: 0,0:51:57.31,0:51:59.28,字幕,,0,0,0,,不太可能吧\N{\fs40}That's unlikely.
+Dialogue: 0,0:51:59.28,0:52:01.71,字幕,,0,0,0,,怎么不可能 你们知道 卡罗尔·沃德曼 么\N{\fs40}No. Seriously, you know Carol Vorderman?
+Dialogue: 0,0:52:01.75,0:52:04.32,字幕,,0,0,0,,她今早给我打电话说她在附近看航展\N{\fs40}She rang me this morning from an air show nearby
+Dialogue: 0,0:52:04.35,0:52:07.32,字幕,,0,0,0,,还问能不能来参加节目\N{\fs40}and said, can she come to the show?
+Dialogue: 0,0:52:07.35,0:52:09.35,字幕,,0,0,0,,我知道你们不知道卡罗尔 沃德曼是谁\N{\fs40}I know you don't know who Carol Vorderman is.
+Dialogue: 0,0:52:09.39,0:52:11.86,字幕,,0,0,0,,她在英国可是红得发紫啊\N{\fs40}She's a huge, huge, huge star in the UK.
+Dialogue: 0,0:52:11.89,0:52:13.89,字幕,,0,0,0,,她从一档叫做Countdown的节目里发迹\N{\fs40}She started out on a program called Countdown
+Dialogue: 0,0:52:13.93,0:52:16.20,字幕,,0,0,0,,在剧中 将自己打造成无比聪慧\N{\fs40}and established herself as being unbelievably brilliant,
+Dialogue: 0,0:52:16.23,0:52:18.23,字幕,,0,0,0,,美轮美奂的数学家\N{\fs40}a fantastic mathematician
+Dialogue: 0,0:52:18.23,0:52:20.88,字幕,,0,0,0,,此外还漂亮\N{\fs40}and very beautiful.
+Dialogue: 0,0:52:20.92,0:52:23.54,字幕,,0,0,0,,是呢  她也死了\N{\fs40}Yes, she's also dead.
+Dialogue: 0,0:52:23.57,0:52:25.07,字幕,,0,0,0,,嘛\N{\fs40}What?
+Dialogue: 0,0:52:25.07,0:52:28.84,字幕,,0,0,0,,啥 -她死了\N{\fs40}- What? - She's dead.
+Dialogue: 0,0:52:28.87,0:52:31.64,字幕,,0,0,0,,这是什么情况啊 -不知道 我又不学病理的\N{\fs40}- How did that happen? - I don't know. I'm not a pathologist!
+Dialogue: 0,0:52:31.68,0:52:34.28,字幕,,0,0,0,,但是她像这样就死了\N{\fs40}But she's dead is what she is.
+Dialogue: 0,0:52:34.31,0:52:36.80,字幕,,0,0,0,,真的么 -是啊\N{\fs40}- Seriously? - Yes!
+Dialogue: 0,0:52:36.83,0:52:39.21,字幕,,0,0,0,,天啊 -出事了吧\N{\fs40}- Christ. - Problem.
+Dialogue: 0,0:52:39.25,0:52:41.59,字幕,,0,0,0,,我们现在应该怎么办呢\N{\fs40}What are we gonna do?
+Dialogue: 0,0:52:41.62,0:52:42.85,字幕,,0,0,0,,额\N{\fs40}Um...
+Dialogue: 0,0:52:42.85,0:52:45.22,字幕,,0,0,0,,天啊 看看这外面 就像个\N{\fs40}Jesus, look at that out there. It's like a-
+Dialogue: 0,0:52:45.26,0:52:47.26,字幕,,0,0,0,,简直横尸遍野啊\N{\fs40}It's just littered with corpses.
+Dialogue: 0,0:52:49.33,0:52:52.83,字幕,,0,0,0,,弟兄们 我觉得这环节没有存在必要了\N{\fs40}Lads, I don't think this bit is working.
+Dialogue: 0,0:52:52.87,0:52:54.23,字幕,,0,0,0,,我们就把\N{\fs40}Let's drop
+Dialogue: 0,0:52:54.23,0:52:56.53,字幕,,0,0,0,,明星脑碰脑 这周的给切了吧\N{\fs40}Celebrity Brain Crash this week.
+Dialogue: 0,0:52:56.57,0:52:58.65,字幕,,0,0,0,,下周去了南非再搞\N{\fs40}We'll do it again in South Africa next week,
+Dialogue: 0,0:52:58.69,0:53:00.74,字幕,,0,0,0,,等下周 大家就把这事给忘了\N{\fs40}and I think people will have forgotten all this.
+Dialogue: 0,0:53:00.77,0:53:03.47,字幕,,0,0,0,,不会吧 -我觉得他们会的\N{\fs40}- They might not. - I think they will.
+Dialogue: 0,0:53:03.51,0:53:05.94,字幕,,0,0,0,,我们把这段跳过去吧 这些事情从来没发生过对吧\N{\fs40}We'll just skip over it now. It's not gonna happen.
+Dialogue: 0,0:53:05.98,0:53:08.28,字幕,,0,0,0,,好吧 因为我们要回到车上来\N{\fs40}That's okay, 'cause we can back to the cars.
+Dialogue: 0,0:53:08.32,0:53:11.38,字幕,,0,0,0,,是的 继续\N{\fs40}Yes! Moving on!
+Dialogue: 0,0:53:12.68,0:53:15.09,字幕,,0,0,0,,别看 -对 别看\N{\fs40}- Don't look. - Yes, don't look.
+Dialogue: 0,0:53:15.12,0:53:16.45,字幕,,0,0,0,,这周呢\N{\fs40}This week-
+Dialogue: 0,0:53:16.46,0:53:18.72,字幕,,0,0,0,,这周我们要在新世代混动超跑中找出\N{\fs40}This week we are trying to find out
+Dialogue: 0,0:53:18.76,0:53:21.53,字幕,,0,0,0,,他们中哪台是最好的\N{\fs40}which of the new breed of hybrid hypercars is the best.
+Dialogue: 0,0:53:21.56,0:53:23.86,字幕,,0,0,0,,是的 第一天我们在葡萄牙赛道上\N{\fs40}Yes. On day one at the track in Portugal,
+Dialogue: 0,0:53:23.90,0:53:27.53,字幕,,0,0,0,,我们发现迈凯轮P1是一个神经质\N{\fs40}we established that the McLaren P1 is a mentalist,
+Dialogue: 0,0:53:27.57,0:53:31.13,字幕,,0,0,0,,保时捷918是个不错的送奶车\N{\fs40}that the Porsche 918 is a very good milk float,
+Dialogue: 0,0:53:31.17,0:53:34.44,字幕,,0,0,0,,法拉利拉法什么都干不了\N{\fs40}and that the Ferrari LaFerrari can do nothing at all.
+Dialogue: 0,0:53:35.34,0:53:37.91,字幕,,0,0,0,,有些话是真的\N{\fs40}Some of that is true.
+Dialogue: 0,0:53:37.94,0:53:40.48,字幕,,0,0,0,,但是 现在是第二天\N{\fs40}But now, day two.
+Dialogue: 0,0:53:50.66,0:53:52.62,字幕,,0,0,0,,我们将寰宇中最热血澎湃的\N{\fs40}We began by lining up
+Dialogue: 0,0:53:52.62,0:53:55.36,字幕,,0,0,0,,三辆速度机器依次排开\N{\fs40}the three most exciting cars on the planet
+Dialogue: 0,0:53:55.40,0:53:59.00,字幕,,0,0,0,,准备进行这个时代的巅峰之战\N{\fs40}for the drag race of all drag races.
+Dialogue: 0,0:54:13.01,0:54:17.02,字幕,,0,0,0,,自然而然 这就意味着要打开弹射起步了\N{\fs40}Naturally, this meant engaging launch control,
+Dialogue: 0,0:54:17.05,0:54:21.07,字幕,,0,0,0,,在迈凯轮里 大约需要2周\N{\fs40}which in the McLaren takes about a fortnight.
+Dialogue: 0,0:54:21.10,0:54:25.09,字幕,,0,0,0,,我要把驾驶模式调节到赛道模式\N{\fs40}I have to have the drive tray in track mode,
+Dialogue: 0,0:54:25.12,0:54:27.33,字幕,,0,0,0,,空气动力学模块调节到运动\N{\fs40}the aero package in sport mode,
+Dialogue: 0,0:54:27.36,0:54:28.66,字幕,,0,0,0,,在这个模式下 车辆后部会降低\N{\fs40}so that the rear end squats
+Dialogue: 0,0:54:28.66,0:54:30.63,字幕,,0,0,0,,当我起步的时候回给我更多的抓地力\N{\fs40}when I set off and gives me more traction.
+Dialogue: 0,0:54:30.63,0:54:33.83,字幕,,0,0,0,,我还需要将DRS按钮用我的大拇指按住\N{\fs40}I have to have the DRS button pressed with my thumb
+Dialogue: 0,0:54:33.87,0:54:37.42,字幕,,0,0,0,,让尾翼变得水平以极大减小迎面的空气阻力\N{\fs40}to keep the rear wing open which reduces drag obviously.
+Dialogue: 0,0:54:37.45,0:54:40.97,字幕,,0,0,0,,在保时捷里开弹射 左脚踩刹车 猛踩\N{\fs40}Launch control in the Porsche, left foot on the brake hard.
+Dialogue: 0,0:54:41.01,0:54:42.97,字幕,,0,0,0,,右脚踩油门 猛踩\N{\fs40}Right foot on the throttle hard.
+Dialogue: 0,0:54:43.01,0:54:45.34,字幕,,0,0,0,,绿灯一亮 左脚一抬 叮\N{\fs40}Light goes green, left foot off brake. Pa-ching!
+Dialogue: 0,0:54:45.38,0:54:47.71,字幕,,0,0,0,,持续按住弹射起步按钮2秒钟\N{\fs40}Launch button, press for two seconds.
+Dialogue: 0,0:54:47.75,0:54:50.35,字幕,,0,0,0,,左脚踩刹车 右脚踩油门\N{\fs40}Left foot on brake. Right foot on throttle.
+Dialogue: 0,0:54:50.38,0:54:53.07,字幕,,0,0,0,,按下弹射起步 狠踩油门\N{\fs40}Press launch control, mash the throttle,
+Dialogue: 0,0:54:53.10,0:54:56.05,字幕,,0,0,0,,四秒内松开刹车\N{\fs40}within four seconds release the brake.
+Dialogue: 0,0:54:56.08,0:54:58.75,字幕,,0,0,0,,三秒钟后 我将达到最大增压值\N{\fs40}Three seconds later, I have full boost,
+Dialogue: 0,0:54:58.79,0:55:01.43,字幕,,0,0,0,,并且在三秒钟内我必须起步\N{\fs40}and I have to set off within three seconds
+Dialogue: 0,0:55:01.46,0:55:03.83,字幕,,0,0,0,,否则的话整个系统将取消弹射状态\N{\fs40}or the entire system disengages.
+Dialogue: 0,0:55:03.86,0:55:06.60,字幕,,0,0,0,,我肯定会失败的\N{\fs40}I'm going to get this wrong.
+Dialogue: 0,0:55:06.63,0:55:08.60,字幕,,0,0,0,,通知你们一下\N{\fs40}Just so you know.
+Dialogue: 0,0:55:08.63,0:55:10.94,字幕,,0,0,0,,我的准备工作太多了\N{\fs40}I've got a lot to do in here.
+Dialogue: 0,0:55:37.40,0:55:40.13,字幕,,0,0,0,,我没准备好\N{\fs40}I wasn't ready.
+Dialogue: 0,0:55:40.16,0:55:42.93,字幕,,0,0,0,,天啊 那辆拉法真快\N{\fs40}Oh, my God! That is quick!
+Dialogue: 0,0:55:46.81,0:55:50.94,字幕,,0,0,0,,亲娘啊 看到了么\N{\fs40}Holy mother! Did you see that?
+Dialogue: 0,0:55:50.98,0:55:53.55,字幕,,0,0,0,,我* 天啊\N{\fs40}- me! - Jesus Christ!
+Dialogue: 0,0:55:53.58,0:55:56.11,字幕,,0,0,0,,到处乱窜\N{\fs40}It's all over the place.
+Dialogue: 0,0:56:01.45,0:56:04.06,字幕,,0,0,0,,既然大家都心知肚明是我按错了按钮\N{\fs40}Since it was clear I'd got all my buttons wrong,
+Dialogue: 0,0:56:04.09,0:56:06.81,字幕,,0,0,0,,伙计们也都同意再赛一轮\N{\fs40}the chaps agreed to another run.
+Dialogue: 0,0:56:06.84,0:56:09.22,字幕,,0,0,0,,情况报告 增压还没好\N{\fs40}Sit rep, the lights went green
+Dialogue: 0,0:56:09.26,0:56:11.56,字幕,,0,0,0,,灯就变绿了\N{\fs40}before the boost was ready,
+Dialogue: 0,0:56:11.60,0:56:13.73,字幕,,0,0,0,,我还按住了DRS按钮\N{\fs40}and I had the DRS button still pressed
+Dialogue: 0,0:56:13.77,0:56:16.44,字幕,,0,0,0,,所以到最后 我没了下压力\N{\fs40}when I got to the end, which meant I had no downforce,
+Dialogue: 0,0:56:16.47,0:56:19.60,字幕,,0,0,0,,结果就是 吓出了翔了\N{\fs40}which meant- Well, poo came out.
+Dialogue: 0,0:56:19.64,0:56:23.67,字幕,,0,0,0,,这次 我要加大下压力\N{\fs40}This time I'm gonna do it with more drag,
+Dialogue: 0,0:56:23.71,0:56:26.31,字幕,,0,0,0,,虽然会慢些 但是刹车的时候\N{\fs40}which will slow me down, but I will be able to stop
+Dialogue: 0,0:56:26.35,0:56:28.45,字幕,,0,0,0,,我才没有生命危险\N{\fs40}without killing myself.
+Dialogue: 0,0:56:33.45,0:56:35.55,字幕,,0,0,0,,KERS系统充电完成\N{\fs40}KERS system charged. Right.
+Dialogue: 0,0:56:40.19,0:56:42.56,字幕,,0,0,0,,增压中\N{\fs40}Boost building.
+Dialogue: 0,0:56:45.36,0:56:47.50,字幕,,0,0,0,,3 2\N{\fs40}Three, two...
+Dialogue: 0,0:56:51.47,0:56:53.54,字幕,,0,0,0,,出发了 神起步啊\N{\fs40}And we are away! What a start!
+Dialogue: 0,0:56:56.31,0:56:58.71,字幕,,0,0,0,,保时捷后来居上了\N{\fs40}The Porsche has got off to a flyer.
+Dialogue: 0,0:57:00.21,0:57:02.21,字幕,,0,0,0,,啊 我的蛋\N{\fs40}Oh, balls!
+Dialogue: 0,0:57:02.21,0:57:04.21,字幕,,0,0,0,,180 190 200 210\N{\fs40}180, 190, 210.
+Dialogue: 0,0:57:07.69,0:57:09.72,字幕,,0,0,0,,230公里每小时\N{\fs40}230 kilometers an hour.
+Dialogue: 0,0:57:15.19,0:57:17.93,字幕,,0,0,0,,这没发挥好\N{\fs40}That wasn't very good.
+Dialogue: 0,0:57:17.96,0:57:21.20,字幕,,0,0,0,,因为詹姆斯不知怎么搞砸了\N{\fs40}Because James had somehow messed up that time,
+Dialogue: 0,0:57:21.23,0:57:23.67,字幕,,0,0,0,,而且这测试的重点在车\N{\fs40}and because this test was about the cars,
+Dialogue: 0,0:57:23.70,0:57:26.20,字幕,,0,0,0,,所以我们决定再来一次\N{\fs40}we decided to go again.
+Dialogue: 0,0:57:31.34,0:57:33.34,字幕,,0,0,0,,这就是个火箭\N{\fs40}It's a rocket ship.
+Dialogue: 0,0:57:34.51,0:57:36.62,字幕,,0,0,0,,为了大英帝国\N{\fs40}For England!
+Dialogue: 0,0:57:38.25,0:57:40.25,字幕,,0,0,0,,不要啊\N{\fs40}No, no!
+Dialogue: 0,0:57:45.72,0:57:47.99,字幕,,0,0,0,,我们都赢过一次了\N{\fs40}Okay, we have all three won this now.
+Dialogue: 0,0:57:50.63,0:57:53.51,字幕,,0,0,0,,为了最终确定\N{\fs40}Determined to find a definitive
+Dialogue: 0,0:57:53.55,0:57:56.40,字幕,,0,0,0,,一二三的排名\N{\fs40}one-two-three finishing order,
+Dialogue: 0,0:57:56.44,0:57:58.44,字幕,,0,0,0,,我们又跑了一次\N{\fs40}we ran again.
+Dialogue: 0,0:58:03.21,0:58:07.21,字幕,,0,0,0,,两位 这又是一个完全不同的结果\N{\fs40}Another totally different result there, gentlemen.
+Dialogue: 0,0:58:08.38,0:58:10.38,字幕,,0,0,0,,又一次\N{\fs40}And again.
+Dialogue: 0,0:58:12.95,0:58:16.76,字幕,,0,0,0,,又是个不同的结果\N{\fs40}That's a different result again.
+Dialogue: 0,0:58:16.79,0:58:18.89,字幕,,0,0,0,,又一次\N{\fs40}And again?
+Dialogue: 0,0:58:24.10,0:58:26.36,字幕,,0,0,0,,至此 我们决定\N{\fs40}At this point, we decided to call
+Dialogue: 0,0:58:26.40,0:58:27.93,字幕,,0,0,0,,不再继续下去了\N{\fs40}a halt to proceedings,
+Dialogue: 0,0:58:27.93,0:58:32.57,字幕,,0,0,0,,因为我们得出了一个科学结论\N{\fs40}because we had reached a scientific conclusion.
+Dialogue: 0,0:58:32.60,0:58:36.04,字幕,,0,0,0,,原来这和你买哪辆没关系\N{\fs40}It turns out it doesn't really matter which car you buy,
+Dialogue: 0,0:58:36.08,0:58:38.06,字幕,,0,0,0,,主要是鞋的问题\N{\fs40}it all depends on your shoes.
+Dialogue: 0,0:58:38.06,0:58:39.98,字幕,,0,0,0,,大家看 这是一双TOD乐福鞋\N{\fs40}Now, this is a TOD loafer.
+Dialogue: 0,0:58:39.98,0:58:43.01,字幕,,0,0,0,,轻微的磨损 能够让起步的瞬间\N{\fs40}Slightly worn to get a crisper jump
+Dialogue: 0,0:58:43.05,0:58:45.21,字幕,,0,0,0,,松刹车的动作更加干脆直接\N{\fs40}off the brake pedal, and it's immediate.
+Dialogue: 0,0:58:45.25,0:58:48.19,字幕,,0,0,0,,他的是匡威 鞋底的填充物比我想象还厚\N{\fs40}- This is a Converse. - There's more sponge in there than I thought.
+Dialogue: 0,0:58:48.22,0:58:51.12,字幕,,0,0,0,,你看阿迪也是 他们造鞋的时候也没考虑过这个问题\N{\fs40}See, Adidas, they weren't thinking that through.
+Dialogue: 0,0:58:51.16,0:58:54.33,字幕,,0,0,0,,所以在你抬脚的时候就已经损失了一毫秒\N{\fs40}- So, as you lift your foot up- - It's a millisecond.
+Dialogue: 0,0:58:54.36,0:58:55.69,字幕,,0,0,0,,无论是你有KERS\N{\fs40}I know you've got KERS,
+Dialogue: 0,0:58:55.69,0:58:57.26,字幕,,0,0,0,,你有6.3升V12引擎\N{\fs40}I know you've got a 6.3-litre V12,
+Dialogue: 0,0:58:57.26,0:58:59.83,字幕,,0,0,0,,还有出色的弹射启动\N{\fs40}and I know that launch control system is amazing,
+Dialogue: 0,0:58:59.87,0:59:01.23,字幕,,0,0,0,,最终都被\N{\fs40}but it's all let down
+Dialogue: 0,0:59:01.23,0:59:03.20,字幕,,0,0,0,,你的阿迪达斯鞋给耽误了\N{\fs40}by the sponginess of the Adidas shoe.
+Dialogue: 0,0:59:03.20,0:59:05.40,字幕,,0,0,0,,所以车和鞋应该配套卖\N{\fs40}So they should sell you the car and the shoes.
+Dialogue: 0,0:59:05.44,0:59:07.97,字幕,,0,0,0,,不止 首先你得有合适的鞋 然后还要磨合一段时间\N{\fs40}No, have you got the correct shoes and have you worn them in?
+Dialogue: 0,0:59:08.01,0:59:10.01,字幕,,0,0,0,,没错 新鞋的话 不好意思各位\N{\fs40}- Exactly. - Fresh shoes, lads.
+Dialogue: 0,0:59:10.01,0:59:14.21,字幕,,0,0,0,,我需要 你需要磨一下才行\N{\fs40}- I just need to- - You need to skid about. There we go.
+Dialogue: 0,0:59:14.25,0:59:16.78,字幕,,0,0,0,,解决了这个问题之后\N{\fs40}With that sorted,
+Dialogue: 0,0:59:16.82,0:59:19.02,字幕,,0,0,0,,就该请出我们的职业赛车手\N{\fs40}it was time to bring in a racing driver
+Dialogue: 0,0:59:19.05,0:59:22.65,字幕,,0,0,0,,来试试哪辆车的圈速最快\N{\fs40}to see which of our cars could do the fastest lap.
+Dialogue: 0,0:59:22.69,0:59:25.97,字幕,,0,0,0,,我们的常驻美国佬表示对此不感兴趣\N{\fs40}Our resident American said he wasn't interested,
+Dialogue: 0,0:59:26.01,0:59:29.26,字幕,,0,0,0,,因为这三辆车党性太足\N{\fs40}because all three cars are probably communist.
+Dialogue: 0,0:59:29.30,0:59:32.63,字幕,,0,0,0,,所以我们找了一个比利时佬\N{\fs40}So instead, we went for a Belgian chap-
+Dialogue: 0,0:59:34.17,0:59:37.80,字幕,,0,0,0,,曾跑过一级方程式和E级方程式\N{\fs40}...who's done Formula One and Formula E,
+Dialogue: 0,0:59:37.84,0:59:40.34,字幕,,0,0,0,,他就是Jerome d'Ambrosio\N{\fs40}Jerome d'Ambrosio.
+Dialogue: 0,0:59:45.31,0:59:47.01,字幕,,0,0,0,,为了了解每辆车的操控特性\N{\fs40}Jerome took the cars out
+Dialogue: 0,0:59:47.01,0:59:49.68,字幕,,0,0,0,,Jerome进行了试驾\N{\fs40}to get a sense of how they handled.
+Dialogue: 0,1:00:06.00,1:00:07.85,字幕,,0,0,0,,在他完成之后\N{\fs40}And when he'd finished,
+Dialogue: 0,1:00:07.85,1:00:09.76,字幕,,0,0,0,,我们都想听听\N{\fs40}we were interested to hear
+Dialogue: 0,1:00:09.76,1:00:11.76,字幕,,0,0,0,,专业人士的意见\N{\fs40}his professional opinion.
+Dialogue: 0,1:00:55.78,1:00:58.38,字幕,,0,0,0,,后来我们才知道\N{\fs40}At this point, word reached us that Jeremy
+Dialogue: 0,1:00:58.42,1:01:02.09,字幕,,0,0,0,,这段的字幕是杰里米自己瞎配的\N{\fs40}was taking liberties with the subtitling machine.
+Dialogue: 0,1:01:03.45,1:01:06.42,字幕,,0,0,0,,所以继续我们的壮举\N{\fs40}So we moved on to the big event:
+Dialogue: 0,1:01:06.46,1:01:09.09,字幕,,0,0,0,,计时赛\N{\fs40}the timed laps.
+Dialogue: 0,1:01:14.43,1:01:16.47,字幕,,0,0,0,,一旦技术人员完成了准备工作\N{\fs40}Once the mechanics had finished their preparations,
+Dialogue: 0,1:01:16.50,1:01:19.40,字幕,,0,0,0,,这三个速度陷阱就会被激活\N{\fs40}the three speed traps were activated.
+Dialogue: 0,1:01:22.87,1:01:25.54,字幕,,0,0,0,,法拉利拉法 在起跑线上\N{\fs40}And the Ferrari LaFerrari took its place
+Dialogue: 0,1:01:25.58,1:01:28.05,字幕,,0,0,0,,找到了它的位置\N{\fs40}on the start line.
+Dialogue: 0,1:01:29.18,1:01:31.18,字幕,,0,0,0,,这看上去多赞啊\N{\fs40}Look how good it looks there.
+Dialogue: 0,1:01:31.22,1:01:34.55,字幕,,0,0,0,,这只是浪费时间 浪费橡胶和石油\N{\fs40}This is just wasting time. It's wasting rubber and fuel.
+Dialogue: 0,1:01:34.59,1:01:36.39,字幕,,0,0,0,,不 这就像是开胃小点\N{\fs40}No, this is like an amuse-bouche.
+Dialogue: 0,1:01:36.39,1:01:40.09,字幕,,0,0,0,,是的 而且你点了鸭子和雪莉蛋糕\N{\fs40}Yeah, it is. You have ordered the duck and sherry trifle.
+Dialogue: 0,1:01:40.13,1:01:43.83,字幕,,0,0,0,,你还有个蜜瓜 我听都没有在听\N{\fs40}- And you're a melon ball. - I'm not even listening.
+Dialogue: 0,1:01:59.44,1:02:04.45,字幕,,0,0,0,,伙计们 它现在时速231.4公里\N{\fs40}Gentlemen, it is doing 231.4 kilometers an hour
+Dialogue: 0,1:02:04.48,1:02:06.55,字幕,,0,0,0,,在直线的尾端\N{\fs40}at the end of the straight.
+Dialogue: 0,1:02:06.58,1:02:10.19,字幕,,0,0,0,,差不多柴油版高尔夫之类的速度\N{\fs40}It's about the same speed as a Golf diesel, something like that.
+Dialogue: 0,1:02:23.84,1:02:27.24,字幕,,0,0,0,,\N{\fs40}194.9.
+Dialogue: 0,1:02:27.27,1:02:29.11,字幕,,0,0,0,,利用重力一路下坡\N{\fs40}Going down the hill using gravity.
+Dialogue: 0,1:02:29.11,1:02:31.31,字幕,,0,0,0,,他停下来去购物了 他肯定的\N{\fs40}- Is he stopping off for shopping? - He must be.
+Dialogue: 0,1:02:46.96,1:02:49.09,字幕,,0,0,0,,他来了\N{\fs40}Here he is.
+Dialogue: 0,1:02:55.60,1:03:00.34,字幕,,0,0,0,,詹姆斯 来杯茶吗 我们已经把赛道加热好了\N{\fs40}- James, if you want to get a cup of tea. - We've warmed the track.
+Dialogue: 0,1:03:00.37,1:03:04.81,字幕,,0,0,0,,下面 该轮到保时捷918出场了\N{\fs40}Next it was the turn of the Porsche 918.
+Dialogue: 0,1:03:04.84,1:03:07.35,字幕,,0,0,0,,这些条纹会给它的速度加持多少呢\N{\fs40}How much faster will it go because of the stripes?
+Dialogue: 0,1:03:07.38,1:03:09.38,字幕,,0,0,0,,很多\N{\fs40}Much.
+Dialogue: 0,1:03:23.29,1:03:25.13,字幕,,0,0,0,,231点多\N{\fs40}231 point...
+Dialogue: 0,1:03:25.13,1:03:27.17,字幕,,0,0,0,,所以他比法拉利快\N{\fs40}So he's faster than the Ferrari.
+Dialogue: 0,1:03:36.67,1:03:39.14,字幕,,0,0,0,,\N{\fs40}183.0.
+Dialogue: 0,1:03:39.18,1:03:42.75,字幕,,0,0,0,,比他慢了非常多\N{\fs40}Way, way, way slower than him.
+Dialogue: 0,1:03:42.78,1:03:44.92,字幕,,0,0,0,,别忘了在这里和下一个测量点之间\N{\fs40}Don't forget between here and the next measuring point,
+Dialogue: 0,1:03:44.95,1:03:47.55,字幕,,0,0,0,,好的 你还有四个慢速弯道\N{\fs40}Okay, you've got four slow corners,
+Dialogue: 0,1:03:47.59,1:03:50.25,字幕,,0,0,0,,这些就是保时捷将要赶超上来的地方\N{\fs40}and those are the ones where the Porsche is gonna make up time.
+Dialogue: 0,1:03:52.16,1:03:53.39,字幕,,0,0,0,,因为四轮驱动\N{\fs40}Because of the four-wheel steering.
+Dialogue: 0,1:03:53.39,1:03:57.03,字幕,,0,0,0,,像本田披露一样 -不\N{\fs40}- Like a Honda Prelude? - No!
+Dialogue: 0,1:04:10.64,1:04:13.41,字幕,,0,0,0,,110点什么 1\N{\fs40}- 110 point what? - One.
+Dialogue: 0,1:04:13.44,1:04:17.38,字幕,,0,0,0,,所以 比你快了 0.1\N{\fs40}So, almost to a tenth of a kilometer an hour, the same speed as you.
+Dialogue: 0,1:04:22.25,1:04:25.06,字幕,,0,0,0,,他来了 他这暴躁的声音\N{\fs40}Here he comes. He's firing noises.
+Dialogue: 0,1:04:26.36,1:04:28.36,字幕,,0,0,0,,在这里 快看那个\N{\fs40}There it is. Look at that.
+Dialogue: 0,1:04:30.83,1:04:34.33,字幕,,0,0,0,,终于 是精神病人杀手出马了\N{\fs40}Finally, it was the turn of the psycho killer.
+Dialogue: 0,1:04:34.37,1:04:37.04,字幕,,0,0,0,,这三个中最难搞的 最易怒的\N{\fs40}The trickiest, the edgiest of the three.
+Dialogue: 0,1:04:38.54,1:04:40.44,字幕,,0,0,0,,但是我对它会胜利充满了信心\N{\fs40}But I was so confident it'd win,
+Dialogue: 0,1:04:40.44,1:04:44.04,字幕,,0,0,0,,所以我准备豪赌一把\N{\fs40}I was prepared to take a massive gamble.
+Dialogue: 0,1:04:45.38,1:04:49.16,字幕,,0,0,0,,如果迈凯轮是最快的\N{\fs40}If the McLaren isn't the fastest,
+Dialogue: 0,1:04:49.20,1:04:52.95,字幕,,0,0,0,,你们两个可以把我的房子拆了\N{\fs40}you two can knock my house down.
+Dialogue: 0,1:04:52.99,1:04:55.08,字幕,,0,0,0,,-神马 -把它拆了\N{\fs40}- What? - Knock it down.
+Dialogue: 0,1:04:55.12,1:04:57.95,字幕,,0,0,0,,-你的房子 -是的 就是这个意思\N{\fs40}- What, your house? - Yeah, and I mean that.
+Dialogue: 0,1:04:57.99,1:05:01.66,字幕,,0,0,0,,这就是我有多坚定的认为它将会是最快的一个\N{\fs40}That's how confident I am that that will be the fastest.
+Dialogue: 0,1:05:01.69,1:05:05.80,字幕,,0,0,0,,-你知道我们真的干得出来的 -是的\N{\fs40}- You know we will do that? - Yeah.
+Dialogue: 0,1:05:05.83,1:05:08.23,字幕,,0,0,0,,-这是个严肃的打赌 -是的\N{\fs40}- It's a serious bet? - Yeah.
+Dialogue: 0,1:05:08.27,1:05:10.84,字幕,,0,0,0,,-好的 -如果它不是最快的\N{\fs40}- Fine. - If that's not the fastest,
+Dialogue: 0,1:05:10.87,1:05:13.25,字幕,,0,0,0,,-我们可以把你的房子拆了 -对哒\N{\fs40}- we can knock your house down? - Yup.
+Dialogue: 0,1:05:13.29,1:05:15.64,字幕,,0,0,0,,你们知道它在哪里 你们都去过\N{\fs40}You know where it is. You've both been.
+Dialogue: 0,1:05:15.67,1:05:17.67,字幕,,0,0,0,,我很愿意把它拆掉\N{\fs40}I'd love to knock it down.
+Dialogue: 0,1:05:24.02,1:05:26.22,字幕,,0,0,0,,我们开始吧 这影响很大\N{\fs40}Here we go. A lot riding on this.
+Dialogue: 0,1:05:38.83,1:05:42.27,字幕,,0,0,0,,\N{\fs40}235.9.
+Dialogue: 0,1:05:42.30,1:05:45.00,字幕,,0,0,0,,好的 它在第一个直线的末端是最快的\N{\fs40}Okay, it's fastest at the end of the first straight.
+Dialogue: 0,1:05:49.71,1:05:51.74,字幕,,0,0,0,,你们愿意来我的家共进晚餐吗\N{\fs40}Would you like to come to my house for dinner?
+Dialogue: 0,1:05:51.78,1:05:53.78,字幕,,0,0,0,,好啊 我能带个推土机一起来吗\N{\fs40}Yes. Can I bring a bulldozer?
+Dialogue: 0,1:06:01.32,1:06:03.19,字幕,,0,0,0,,\N{\fs40}188.3.
+Dialogue: 0,1:06:03.19,1:06:05.22,字幕,,0,0,0,,这真是令人心惊的快啊 -利落\N{\fs40}That is worryingly quick. Brisk.
+Dialogue: 0,1:06:05.26,1:06:07.06,字幕,,0,0,0,,这还是挺快的吧\N{\fs40}It's quite brisk?
+Dialogue: 0,1:06:07.06,1:06:09.74,字幕,,0,0,0,,我们还不知道它急转弯的时候可以开多快呢\N{\fs40}We don't know how fast it's going around the tight turns.
+Dialogue: 0,1:06:09.78,1:06:12.43,字幕,,0,0,0,,也许在那里它只能做到两公里\N{\fs40}Might have been doing two kilometers an hour around here.
+Dialogue: 0,1:06:24.18,1:06:25.93,字幕,,0,0,0,,他在哪里\N{\fs40}Where is he?
+Dialogue: 0,1:06:25.93,1:06:27.93,字幕,,0,0,0,,撞车了\N{\fs40}Crashed.
+Dialogue: 0,1:06:45.06,1:06:47.93,字幕,,0,0,0,,随着这个 让我们回到帐篷\N{\fs40}With that, back to the tent.
+Dialogue: 0,1:06:55.81,1:06:57.64,字幕,,0,0,0,,谢谢你们 现在\N{\fs40}Thank you so much. Now...
+Dialogue: 0,1:06:57.64,1:06:59.68,字幕,,0,0,0,,我要让这变得简单易懂\N{\fs40}I want to make it absolutely plain,
+Dialogue: 0,1:06:59.71,1:07:01.71,字幕,,0,0,0,,因为这对一些怪胎们很重要\N{\fs40}'cause I know this matters to anoraks,
+Dialogue: 0,1:07:01.71,1:07:07.15,字幕,,0,0,0,,所有的这三辆车用的都是完全一样的轮胎\N{\fs40}all three cars were running on exactly the same sort of tires.
+Dialogue: 0,1:07:07.19,1:07:09.75,字幕,,0,0,0,,是的 一样的轮胎 一样的赛道 一样的车手\N{\fs40}Yes, same tires, same track, same driver.
+Dialogue: 0,1:07:09.79,1:07:12.06,字幕,,0,0,0,,所以时间只和车本身相关\N{\fs40}So the times are down to the cars.
+Dialogue: 0,1:07:12.09,1:07:15.33,字幕,,0,0,0,,是的 而现在是揭晓答案的时候了\N{\fs40}Yup. And now it is time to reveal those times.
+Dialogue: 0,1:07:15.36,1:07:17.53,字幕,,0,0,0,,让我再说清楚一点\N{\fs40}Let me just make it absolutely clear.
+Dialogue: 0,1:07:17.56,1:07:19.10,字幕,,0,0,0,,我们并不知道这些时间\N{\fs40}We don't know what they are.
+Dialogue: 0,1:07:19.10,1:07:21.27,字幕,,0,0,0,,制作人一直瞒着我们\N{\fs40}The producers have kept them from us.
+Dialogue: 0,1:07:21.30,1:07:23.07,字幕,,0,0,0,,这是顶级机密 -是的\N{\fs40}- They're top secret. - Yup.
+Dialogue: 0,1:07:23.07,1:07:24.80,字幕,,0,0,0,,所以 让我们打开记分板\N{\fs40}So, let's put the scoreboard up,
+Dialogue: 0,1:07:24.80,1:07:26.00,字幕,,0,0,0,,让我们从\N{\fs40}and let's begin with
+Dialogue: 0,1:07:26.00,1:07:28.56,字幕,,0,0,0,,法拉利拉法开始\N{\fs40}the Ferrari LaFerrari, I believe.
+Dialogue: 0,1:07:28.59,1:07:31.11,字幕,,0,0,0,,让我们来看看它做的如何 拜托\N{\fs40}Let's see what it did it in, please.
+Dialogue: 0,1:07:34.88,1:07:37.60,字幕,,0,0,0,,我们并不知道这究竟好不好 不是吗\N{\fs40}We don't know if that's any good, do we?
+Dialogue: 0,1:07:37.63,1:07:40.32,字幕,,0,0,0,,接下来让我们看看保时捷\N{\fs40}Let's move on and do the Porsche next.
+Dialogue: 0,1:07:40.35,1:07:42.35,字幕,,0,0,0,,保时捷到底开了多快呢\N{\fs40}What did the Porsche do it in?
+Dialogue: 0,1:07:43.19,1:07:46.86,字幕,,0,0,0,,啊万岁 1:54.2\N{\fs40}Oh, yes! 1:54.2!
+Dialogue: 0,1:07:46.89,1:07:50.49,字幕,,0,0,0,,耶 耶 你看到了吗\N{\fs40}Yes! Yes! You see?
+Dialogue: 0,1:07:50.53,1:07:52.63,字幕,,0,0,0,,你说它会把保时捷碾压成渣\N{\fs40}You said it would mince the Porsche.
+Dialogue: 0,1:07:52.66,1:07:56.03,字幕,,0,0,0,,但是它并没有 它比保时捷慢\N{\fs40}And it didn't mince it. It was slower than the Porsche.
+Dialogue: 0,1:07:56.07,1:07:57.94,字幕,,0,0,0,,我告诉你了它就是个蜜瓜\N{\fs40}I told you it's just a melon ball.
+Dialogue: 0,1:07:57.94,1:07:59.84,字幕,,0,0,0,,它比我的车慢\N{\fs40}It's slower than my car,
+Dialogue: 0,1:07:59.84,1:08:02.34,字幕,,0,0,0,,换种说法比你的车快\N{\fs40}which was faster than your car.
+Dialogue: 0,1:08:02.37,1:08:04.57,字幕,,0,0,0,,0.2秒而已 而且它看上去更好\N{\fs40}0.2 of a second, and it looks better.
+Dialogue: 0,1:08:04.61,1:08:07.35,字幕,,0,0,0,,是 在我后视镜里 还越变越小\N{\fs40}Yeah, it did in my mirror where it belongs getting smaller.
+Dialogue: 0,1:08:07.38,1:08:08.98,字幕,,0,0,0,,它就是个蜜瓜 它输了\N{\fs40}It's a melon ball, and it lost.
+Dialogue: 0,1:08:08.98,1:08:10.18,字幕,,0,0,0,,-哈蒙德 -干嘛\N{\fs40}- Hammond. - What?
+Dialogue: 0,1:08:10.18,1:08:11.70,字幕,,0,0,0,,-冷静下来 -好吧\N{\fs40}- Calm down. - All right.
+Dialogue: 0,1:08:11.70,1:08:13.24,字幕,,0,0,0,,因为接下来\N{\fs40}Because now we must bring up
+Dialogue: 0,1:08:13.24,1:08:15.77,字幕,,0,0,0,,要揭晓真正重要的成绩\N{\fs40}the time that really matters.
+Dialogue: 0,1:08:15.80,1:08:18.29,字幕,,0,0,0,,赌了大价钱了\N{\fs40}The one where a lot's at stake.
+Dialogue: 0,1:08:18.32,1:08:19.43,字幕,,0,0,0,,迈凯轮\N{\fs40}The McLaren...
+Dialogue: 0,1:08:19.43,1:08:20.46,字幕,,0,0,0,,迈凯轮P1\N{\fs40}The McLaren P1.
+Dialogue: 0,1:08:20.46,1:08:23.16,字幕,,0,0,0,,-你在紧张吗 -没有 -真的 -没有\N{\fs40}- Are you nervous? Sure? - No. No.
+Dialogue: 0,1:08:23.20,1:08:24.49,字幕,,0,0,0,,-一点点都没有 -没有\N{\fs40}- A little bit? - No!
+Dialogue: 0,1:08:24.50,1:08:26.01,字幕,,0,0,0,,我才没有紧张 -为什么要紧张\N{\fs40}- I'm not nervous. - Why be nervous?
+Dialogue: 0,1:08:26.02,1:08:27.50,字幕,,0,0,0,,你可以拿一辆手推车或者类似的\N{\fs40}You could get, like, a shopping trolley
+Dialogue: 0,1:08:27.50,1:08:29.67,字幕,,0,0,0,,装上你所有的东西\N{\fs40}and keep all your things in it.
+Dialogue: 0,1:08:29.70,1:08:32.54,字幕,,0,0,0,,在桥底下交几个新朋友\N{\fs40}Make some new friends under a bridge somewhere.
+Dialogue: 0,1:08:32.57,1:08:34.84,字幕,,0,0,0,,-哈蒙德 -我建议卖器官 但别那样\N{\fs40}- Hammond. - I'd say sell your body but don't do that.
+Dialogue: 0,1:08:34.87,1:08:37.54,字幕,,0,0,0,,安静 让我们\N{\fs40}Be quiet! Let's-
+Dialogue: 0,1:08:37.58,1:08:40.31,字幕,,0,0,0,,让我们把时间给P1 我们开始吧\N{\fs40}Let's bring up the time of the P1. Here we go.
+Dialogue: 0,1:08:40.35,1:08:43.41,字幕,,0,0,0,,-哦天哪 -在哪儿\N{\fs40}- Oh, God. - Where is it?
+Dialogue: 0,1:08:51.09,1:08:53.46,字幕,,0,0,0,,万岁\N{\fs40}Yes!
+Dialogue: 0,1:08:57.66,1:09:00.93,字幕,,0,0,0,,这太逗了 因为你说过\N{\fs40}That is funny. Because you said...
+Dialogue: 0,1:09:00.97,1:09:04.20,字幕,,0,0,0,,它是最快的 但它不是最快的\N{\fs40}the fastest, but it's not the fastest.
+Dialogue: 0,1:09:04.24,1:09:06.20,字幕,,0,0,0,,它是最慢的\N{\fs40}It's the slowest!
+Dialogue: 0,1:09:06.20,1:09:09.44,字幕,,0,0,0,,女士们先生们 记者 播音员\N{\fs40}Ladies and gentlemen, journalist, broadcaster
+Dialogue: 0,1:09:09.48,1:09:12.88,字幕,,0,0,0,,无家可归的人 杰里米 克拉克森\N{\fs40}and homeless man, Jeremy Clarkson.
+Dialogue: 0,1:09:19.78,1:09:24.52,字幕,,0,0,0,,这就是事实 这就是事实\N{\fs40}That's what it is. That's what it is.
+Dialogue: 0,1:09:24.56,1:09:27.36,字幕,,0,0,0,,你们不会真的把我的房子拆了吧\N{\fs40}You're not really going to knock my house down?
+Dialogue: 0,1:09:27.39,1:09:29.83,字幕,,0,0,0,,是的 我们会的\N{\fs40}Yes, we are.
+Dialogue: 0,1:09:29.86,1:09:31.86,字幕,,0,0,0,,-愿赌服输 -都说定了\N{\fs40}- A bet is a bet. - That's the deal.
+Dialogue: 0,1:09:31.90,1:09:34.57,字幕,,0,0,0,,而且我们会录下来 -但是有件事\N{\fs40}- And we're going to film it. - No, but the thing is,
+Dialogue: 0,1:09:34.60,1:09:37.24,字幕,,0,0,0,,用迈凯轮自己的轮胎的话\N{\fs40}on the tires that the McLaren can be bought with,
+Dialogue: 0,1:09:37.27,1:09:39.54,字幕,,0,0,0,,它是最快的\N{\fs40}it was faster.
+Dialogue: 0,1:09:39.57,1:09:41.97,字幕,,0,0,0,,我们从刚开始就说好了\N{\fs40}We agreed right at the start
+Dialogue: 0,1:09:42.01,1:09:44.34,字幕,,0,0,0,,我们都用一样的轮胎跑\N{\fs40}we'd all run on the same tires.
+Dialogue: 0,1:09:44.38,1:09:46.84,字幕,,0,0,0,,那可是在你的车输掉前就定好的\N{\fs40}That was the deal before your car lost.
+Dialogue: 0,1:09:46.88,1:09:48.38,字幕,,0,0,0,,所以让我们\N{\fs40}So let's just...
+Dialogue: 0,1:09:48.38,1:09:51.88,字幕,,0,0,0,,让我们总结一下这第一集 好嘛\N{\fs40}Let's just sum this first show up, shall we?
+Dialogue: 0,1:09:51.92,1:09:53.72,字幕,,0,0,0,,我失去了房子\N{\fs40}I've lost my house.
+Dialogue: 0,1:09:53.72,1:09:56.09,字幕,,0,0,0,,我们和观众打了起来 -而且很惨烈\N{\fs40}- We've had a fight with the audience. - Big one.
+Dialogue: 0,1:09:56.12,1:09:58.92,字幕,,0,0,0,,有个人把我们的无人机射了下来\N{\fs40}Somebody shot our drone down.
+Dialogue: 0,1:09:58.96,1:10:01.66,字幕,,0,0,0,,而且我们杀了三个大名人\N{\fs40}And we've killed three quite major celebrities.
+Dialogue: 0,1:10:01.69,1:10:03.80,字幕,,0,0,0,,是的 乐观点讲\N{\fs40}Yeah, but on the plus side,
+Dialogue: 0,1:10:03.83,1:10:05.90,字幕,,0,0,0,,我保时捷是最快的\N{\fs40}my Porsche was the fastest!
+Dialogue: 0,1:10:11.40,1:10:13.57,字幕,,0,0,0,,伴随着这个糟糕的失望之情\N{\fs40}And on that terrible disappointment,
+Dialogue: 0,1:10:13.61,1:10:15.64,字幕,,0,0,0,,我想是结束的时候了\N{\fs40}I'm afraid it's time to end.
+Dialogue: 0,1:10:15.67,1:10:17.51,字幕,,0,0,0,,十分感谢你们的到来\N{\fs40}Thank you all very much for coming.
+Dialogue: 0,1:10:17.51,1:10:19.01,字幕,,0,0,0,,谢谢你们的收看\N{\fs40}Thank you for watching.
+Dialogue: 0,1:10:19.01,1:10:20.91,字幕,,0,0,0,,下礼拜我们在约翰尼斯堡再见\N{\fs40}And we'll see you next week in Johannesburg.
+Dialogue: 0,1:10:20.91,1:10:22.91,字幕,,0,0,0,,再见\N{\fs40}Good-bye!
+Dialogue: 0,0:09:26.99,0:09:28.99,字幕,,0,0,0,,
+Dialogue: 0,0:09:26.99,0:09:28.99,字幕,,0,0,0,,
+Dialogue: 0,1:00:12.06,1:00:13.93,副本字幕,,0,0,0,,{\pos(524,556)\fad(500,500)}让我们从保时捷说起
+Dialogue: 0,1:00:14.14,1:00:21.43,副本字幕,,0,0,0,,{\pos(633,560)\fad(500,0)}上帝啊 我告诉你 这是个死亡陷阱 到处乱窜
+Dialogue: 0,1:00:14.14,1:00:21.43,字幕,,0,0,0,,它运行最顺滑 车子性能很中性 因此风险也很大
+Dialogue: 0,1:00:21.43,1:00:25.52,副本字幕,,0,0,0,,{\pos(582,560)}像是在和头油腻的猪摔跤 别再让我开了
+Dialogue: 0,1:00:21.49,1:00:25.54,字幕,,0,0,0,,非常好的牵引力 驾驶感觉十分舒适 我对它很信任
+Dialogue: 0,1:00:25.54,1:00:26.55,字幕,,0,0,0,,好吧 是这样的
+Dialogue: 0,1:00:26.55,1:00:27.39,字幕,,0,0,0,,的确
+Dialogue: 0,1:00:27.43,1:00:30.68,副本字幕,,0,0,0,,{\pos(555,558)}这台法拉利 糟糕的车
+Dialogue: 0,1:00:27.39,1:00:30.69,字幕,,0,0,0,,这台法拉利真是一辆漂亮的车
+Dialogue: 0,1:00:30.69,1:00:32.72,副本字幕,,0,0,0,,{\pos(492,558)}弯道表现太混乱了
+Dialogue: 0,1:00:30.69,1:00:32.64,字幕,,0,0,0,,有着很好的平衡性
+Dialogue: 0,1:00:32.72,1:00:35.97,副本字幕,,0,0,0,,{\pos(464,558)}三辆车里 它绝对是最差
+Dialogue: 0,1:00:32.64,1:00:35.97,字幕,,0,0,0,,在这三车里 法拉利是最均衡的
+Dialogue: 0,1:00:35.97,1:00:40.39,副本字幕,,0,0,0,,{\pos(587,560)}买这车的 肯定是精神病院出来的
+Dialogue: 0,1:00:35.97,1:00:40.38,字幕,,0,0,0,,这辆车十分迅速 我对它有很大的信心
+Dialogue: 0,1:00:40.38,1:00:41.74,字幕,,0,0,0,,是的 是挺差劲
+Dialogue: 0,1:00:41.72,1:00:46.06,副本字幕,,0,0,0,,{\pos(606,554)}说起迈凯伦 它无疑是杰作
+Dialogue: 0,1:00:41.74,1:00:46.24,字幕,,0,0,0,,迈凯轮 也许是最难以控制的
+Dialogue: 0,1:00:46.06,1:00:50.60,副本字幕,,0,0,0,,{\pos(565,556)}容易驾驶 如行走的诗般美妙
+Dialogue: 0,1:00:46.24,1:00:51.14,字幕,,0,0,0,,这真是野蛮的车 因此很容易犯错误
+Dialogue: 0,1:00:50.60,1:00:53.56,副本字幕,,0,0,0,,{\pos(469,558)}实话 孩子都能开
+Dialogue: 0,1:00:51.14,1:00:53.40,字幕,,0,0,0,,需要时刻当心 很难协调
+Dialogue: 0,1:00:53.56,1:00:57.27,副本字幕,,0,0,0,,{\pos(437,560)}蹒跚学步的小孩
+Dialogue: 0,1:00:53.40,1:00:55.41,字幕,,0,0,0,,因此我认为它不太有效
